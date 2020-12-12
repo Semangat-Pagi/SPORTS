@@ -53,36 +53,14 @@ http://92.43.140.204:80/s81/index.m3u8
 http://92.43.140.200/s81/04.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",SETANTA SPORTS 2
 http://92.43.140.200/s82/04.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Fox Sports 501 (MOTO GP)
-http://45.58.62.92:8080
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",SPORT 7
-http://45.58.62.92:8083
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",PPTV HD (MOTO GP)
 http://183.182.100.184/live/pptvthai/playlist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Varzesh TV
-http://51.158.66.44/hls/stream.m3u8
-#EXTINF:0 tvg-logo="TEST" group-title="FOOTBALL",VARZESH TV 2
-http://51.158.176.190/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Varzesh TV 3
-http://51.15.236.137/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Varzesh TV 4
-http://163.172.138.186/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Viasat Sport East
 https://persik.tv/stream/3602/287583/10249.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Bek Sports West
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Nile Sport
 http://178.132.3.162:88/Nile_Sport/video.m3u8?token=test
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",MOTOR SPORT
-http://45.58.62.92:8084
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",EUROSPORTS" 1
-http://5.135.92.133:52841/out/u/509_1.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",EUROSPORTS" 1
-http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",EURO SPORTS" 2
-https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",TEN SPORTS
-http://125.209.99.45:43568/BRN/TenSports.stream/chunklist_w1876894388.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",GTV LIVE HD 
 http://103.132.180.245:8080/2/index.m3u8?token=f249ee099ac31671f393eab1dd60d1d86ef3c31e-4af8c0a178661db3b32df38ac2f1a11a-1600616751-1600605951&remote=103.66.177.168
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",espn 2
@@ -102,8 +80,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2",STAR SPORTS
 rtmp://58.200.131.2:1935/livetv/starsports
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2",TRUE PREMIER FOOTBALL 1
-https://sport.livedoomovie.com/02_PremierHD1_480p/chunklist.m3u8
-https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2",TRUE PREMIER FOOTBALL 2
 https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8
@@ -156,11 +132,6 @@ http://193.42.99.130:23455/3660/playlist.m3u8
 
 
 =============================================BeinSports==================================================================
-
-#EXTINF:-1 tvg-logo="" group-title="BeinSports",Diema sport EPL
-http://136.243.177.164/DIEMASPORT2/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BeinSports",Spiler tv EPL
-http://rstr0.teamnetwork.co/stream133/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hk.png" group-title="BeinSports",BeinSport1 
 http://209.126.8.89:25461/live/dlnabein/dlnabein/1.ts
 http://160.119.77.116:8081/iptv/fr-bein1hd.stream/playlist.m3u8
@@ -259,9 +230,16 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/playlist.m3u8
 =====================================================AstroSports===========================================================================
 #EXTINF:-1 group-title="AstroSports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_300.png",Astro SuperSport 1
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+#EXTINF:-1 group-title="AstroSports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_300.png",Astro SuperSport 1
+http://vp2p2s.my6868.cc/20414/index.m3u8
+#EXTINF:-1 group-title="AstroSports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_300.png",Astro SuperSport 2
+http://vp2p2s.my6868.cc/20415/index.m3u8
+#EXTINF:-1 group-title="AstroSports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_300.png",Astro SuperSport 3
+http://vp2p2s.my6868.cc/20416/index.m3u8
 #EXTINF:-1 group-title="AstroSports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813_300.png",Astro SuperSport 3
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
-
+#EXTINF:-1 group-title="AstroSports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_300.png",Astro SuperSport 4
+http://vp2p2s.my6868.cc/20417/index.m3u8
 
 =======================================================================SportsUnggulan====================================================================================================
 #EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan", serie a italia
