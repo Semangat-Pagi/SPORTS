@@ -210,6 +210,9 @@ http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28438
 #EXTINF:0 tvg-id="ext" group-title="Channels",AF: SUPERSPORT BLITZ
 http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28439
 
+
+#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",SPORTSNET 360
+https://hackey.stream/hlsrio/test.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FOOTBALL",NBCSN 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/606
 #EXTINF:-1 tvg-logo="" group-title="FOOTBALL",BEIN SPORT ENGLISH 
