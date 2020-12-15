@@ -21,30 +21,6 @@ http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8
 http://tv4all.cyou:80/3030498113/0405515466/29193
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",SP-ESPN
 http://digitalxpress.gcdn.co/live1/SP-ESPN/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bein1
-http://163.172.39.42:8080/live/Maxxlq/Maxxlq/13.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bein2
-http://163.172.39.42:8080/live/Maxxlq/Maxxlq/14.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bein3
-http://163.172.39.42:8080/live/Maxxlq/Maxxlq/15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bein4
-http://163.172.39.42:8080/live/Maxxlq/Maxxlq/16.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bein5
-https://stream.taghtia.com/http://de1.thefitnesshints.com/live/c5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bein6
-http://163.172.39.42:8080/live/Maxxlq/Maxxlq/17.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bein7
-http://148.251.23.179:80/bhd7/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bein8
-http://148.251.23.179:80/bhd8/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bein9
-http://148.251.23.179:80/bhd9/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bein10
-http://148.251.23.179:80/bhd10/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bein11
-http://148.251.23.179:80/bhd11/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bein14
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6161
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",wwe
 http://digitalxpress2.gcdn.co/live1/wwe/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",boxnationuk
@@ -195,7 +171,8 @@ http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/783
 http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/784 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 10" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 10 
 http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/785
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="beIN SPORTS FHD",bein14
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6161
 
 #EXTINF:-1 tvg-logo="" group-title="FOOTBALL",NBCSN 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/606
@@ -203,6 +180,8 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
 #EXTINF:-1 tvg-logo="" group-title="FOOTBALL",BEIN N
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
+#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",FORMULA 1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/698
 #EXTINF:-1 tvg-logo="" group-title="FOOTBALL",Skynet 1
 https://ip2121.com/web/skynet1/playlist.m3u8
 https://www.livedoomovies.com/03_skynetsport1_480p/chunklist.m3u8
