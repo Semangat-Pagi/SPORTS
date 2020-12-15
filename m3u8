@@ -171,8 +171,44 @@ http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/783
 http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/784 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 10" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 10 
 http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/785
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS FHD",beIN SPORT 11HD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1272
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS FHD",beIN SPORT 12HD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1273
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS FHD",beIN SPORTS 13HD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6160
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="beIN SPORTS FHD",bein14
 http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6161
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",AF:  SuperSport 1
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28426
+#EXTINF:0 tvg-id="ext" group-title="Channels",AF:  SuperSport 2
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28427
+#EXTINF:0 tvg-id="ext" group-title="Channels",AF: SuperSport 3
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28428
+#EXTINF:0 tvg-id="ext" group-title="Channels",AF: SuperSport 4
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28429
+#EXTINF:0 tvg-id="ext" group-title="Channels",AF: SuperSport 5
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28430
+#EXTINF:0 tvg-id="ext" group-title="Channels",AF: SuperSport 6
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28431
+#EXTINF:0 tvg-id="ext" group-title="Channels",AF: SuperSport 7
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28432
+#EXTINF:0 tvg-id="ext" group-title="Channels",AF: SuperSport 8
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28433
+#EXTINF:0 tvg-id="ext" group-title="Channels",AF: SuperSport 9
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28434
+#EXTINF:0 tvg-id="ext" group-title="Channels",AF: SuperSport 10
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28435
+#EXTINF:0 tvg-id="ext" group-title="Channels",AF: SuperSport 11
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28436
+#EXTINF:0 tvg-id="ext" group-title="Channels",AF: SuperSport 12
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28437
+#EXTINF:0 tvg-id="ext" group-title="Channels",AF: SUPERSPORT MAXIMO
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28438
+#EXTINF:0 tvg-id="ext" group-title="Channels",AF: SUPERSPORT BLITZ
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28439
 
 #EXTINF:-1 tvg-logo="" group-title="FOOTBALL",NBCSN 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/606
