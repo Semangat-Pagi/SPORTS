@@ -210,7 +210,6 @@ http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28438
 #EXTINF:0 tvg-id="ext" group-title="Channels",AF: SUPERSPORT BLITZ
 http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28439
 
-
 #EXTINF:-1 tvg-logo="" group-title="FOOTBALL",SPORTSNET 360
 https://hackey.stream/hlsrio/test.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FOOTBALL",NBCSN 
@@ -220,25 +219,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="" group-title="FOOTBALL",BEIN N
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
 #EXTINF:-1 tvg-logo="" group-title="FOOTBALL",FORMULA 1
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/698
-#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",Skynet 1
-https://ip2121.com/web/skynet1/playlist.m3u8
-https://www.livedoomovies.com/03_skynetsport1_480p/chunklist.m3u8
-https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
-https://rebrand.ly:443/2020/Skynetsport1-playlist_m3u8
-https://ip2121.com/web/skynet2/chunks.m3u8?nimblesessionid=10797581
-#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",Skynet 2
-https://livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
-https://119.59.125.18:443/web/skynet2/playlist.m3u8
-https://rebrand.ly/2020/Skynetsport2-playlist_m3u8
-#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",Skynet 3
-https://rebrand.ly/2020/Skynetsport3-playlist_m3u8
-#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",Skynet 4
-https://rebrand.ly/2020/Skynetsport4-playlist_m3u8
-#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",Skynet 5
-https://rebrand.ly/2020/Skynetsport5-playlist_m3u8
-#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",Skynet 6
-https://rebrand.ly/2020/Skynetsport6-playlist_m3u8
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/6
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 1
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 2
