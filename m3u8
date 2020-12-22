@@ -210,6 +210,27 @@ http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28438
 #EXTINF:0 tvg-id="ext" group-title="Channels",AF: SUPERSPORT BLITZ
 http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28439
 
+
+#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",ZQ SPORTS 
+http://iptv.zqstream.com/zqsport-gen/video.m3u8?token=vQqPVtl-k0
+#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",FOX 5
+http://cdnak10.cast4u.info/channels/4/10804.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",RUSIA 1
+https://95-213-224-179.livesports24.online/khlhdru.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",RUSIA 2
+https://95-213-224-179.livesports24.online/mpremierrus.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",RUSIA 3
+https://95-213-224-179.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",RUSIA 4
+https://95-213-224-179.livesports24.online/mfootball2rus.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",RUSIA 5
+https://95-213-224-179.livesports24.online/rumatcharena.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",RUSIA 6
+https://95-213-224-179.livesports24.online/migra.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",RUSIA 7
+https://95-213-224-179.livesports24.online/matchplanetarus.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",RUSIA 8
+https://95-213-224-179.livesports24.online/footballrus.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FOOTBALL",SPORTSNET 360
 https://hackey.stream/hlsrio/test.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FOOTBALL",NBCSN 
