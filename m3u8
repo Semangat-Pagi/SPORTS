@@ -151,47 +151,6 @@ http://d-e-02.cdn.rdsnet.ro/DVR/digisport3hdb.stream/playlit.m3u8
 http://d-e-02.cdn.rdsnet.ro/DVR/digisport4hdb.stream/playlit.m3u8
 
 
-#EXTINF:-1 tvg-id="beINSports1.MACAN" tvg-name="beINSports1.MACAN" group-title="SPORTS ZI" tvg-logo="https://macan.network/img/bein_sports_1.png", beIN Sports 1 ID
-https://delivery.zichannels.xyz/stream/macan_sport_1/playlist.m3u8?token=evqgm&v=20200807
-
-#EXTINF:-1 tvg-id="beINSports2.MACAN" tvg-name="beINSports2.MACAN" group-title="SPORTS ZI" tvg-logo="https://macan.network/img/bein_sports_2.png", beIN Sports 2 ID
-https://delivery.zichannels.xyz/stream/macan_sport_2/playlist.m3u8?token=evqgm&v=20200807
-
-#EXTINF:-1 tvg-id="Arena.id" tvg-name="Arena.id" group-title="SPORTS ZI" tvg-logo="https://macan.network/img/arena.png", Astro Arena
-https://delivery.zichannels.xyz/stream/arena/playlist.m3u8?token=evqgm&v=20200807
-
-#EXTINF:-1 tvg-id="Champions1" tvg-name="Champions1" group-title="SPORTS ZI" tvg-logo="https://macan.network/img/champions1.png", Champions 1 TV
-https://delivery.zichannels.xyz/stream/macan_sport_5/playlist.m3u8?token=evqgm&v=20200807
-
-#EXTINF:-1 tvg-id="Champions2" tvg-name="Champions2" group-title="SPORTS ZI" tvg-logo="https://macan.network/img/champions2.png", Champions 2 TV
-https://delivery.zichannels.xyz/stream/macan_sport_6/playlist.m3u8?token=evqgm&v=20200807
-
-#EXTINF:-1 tvg-id="FightSports.MACAN" tvg-name="FightSports.MACAN" group-title="SPORTS ZI" tvg-logo="https://macan.network/img/fightsport.png", Fight Sport
-https://delivery.zichannels.xyz/stream/fightsport/playlist.m3u8?token=evqgm&v=20200807
-
-#EXTINF:-1 tvg-id="UseeSports.id" tvg-name="UseeSports.id" group-title="SPORTS ZI" tvg-logo="https://macan.network/img/useetv.png", Useesports 1
-https://delivery.zichannels.xyz/stream/macan_sport_3/playlist.m3u8?token=evqgm&v=20200807
-
-#EXTINF:-1 tvg-id="UseeSports.id" tvg-name="UseeSports.id" group-title="SPORTS ZI" tvg-logo="https://macan.network/img/useetv.png", Useesports 2
-https://delivery.zichannels.xyz/stream/macan_sport_4/playlist.m3u8?token=evqgm&v=20200807
-
-#EXTINF:-1 tvg-id="FOXSportsHD.MACAN" tvg-name="FOXSportsHD.MACAN" group-title="SPORTS ZI" tvg-logo="https://macan.network/img/fox_sports_1.png", FOX Sport 1
-https://delivery.zichannels.xyz/stream/id_foxsport1/playlist.m3u8?token=evqgm&v=20200807
-
-#EXTINF:-1 tvg-id="FOXSports2.MACAN" tvg-name="FOXSports2.MACAN" group-title="SPORTS ZI" tvg-logo="https://macan.network/img/fox_sports_2.jpg", FOX Sport 2
-https://delivery.zichannels.xyz/stream/id_foxsport2/playlist.m3u8?token=evqgm&v=20200807
-
-#EXTINF:-1 tvg-id="FOXSports3.MACAN" tvg-name="FOXSports3.MACAN" group-title="SPORTS ZI" tvg-logo="https://macan.network/img/fox_sport_3.jpeg", FOX Sport 3
-https://delivery.zichannels.xyz/stream/id_foxsport3/playlist.m3u8?token=evqgm&v=20200807
-
-#EXTINF:-1 tvg-id="NBATV.id" tvg-name="NBATV.id" group-title="SPORTS ZI" tvg-logo="https://macan.network/img/nbatv.png", NBA TV
-https://delivery.zichannels.xyz/stream/nbatv/playlist.m3u8?token=evqgm&v=20200807
-
-#EXTINF:-1 tvg-id="NBC Golf" tvg-name="NBC Golf" group-title="SPORTS ZI" tvg-logo="https://macan.network/img/nbc_golf.png", NBC Golf
-https://delivery.zichannels.xyz/stream/nbc_golf/playlist.m3u8?token=evqgm&v=20200807
-
-#EXTINF:-1 tvg-id="eGG.MACAN" tvg-name="eGG.MACAN" group-title="SPORTS ZI" tvg-logo="https://macan.network/img/egg.png", eGG TV
-https://delivery.zichannels.xyz/stream/egg/playlist.m3u8?token=evqgm&v=20200807
 
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 1" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 1 
