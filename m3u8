@@ -416,39 +416,49 @@ http://193.42.99.130:23455/3660/playlist.m3u8
 
 =============================================BeinSports==================================================================
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hk.png" group-title="BeinSports",BeinSport1 
+http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25965
 http://209.126.8.89:25461/live/dlnabein/dlnabein/1.ts
 http://160.119.77.116:8081/iptv/fr-bein1hd.stream/playlist.m3u8
 http://thaicable.myftp.org:8000/live/infosat/2020/73.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_02_hk.png" group-title="BeinSports",BeinSport2 
+http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25964
 http://194.32.79.172/bein2/tracks-v1a1/mono.m3u8
 http://209.126.8.89:25461/live/dlnabein/dlnabein/2.ts
 http://160.119.77.116:8081/iptv/fr-bein2hd.stream/playlist.m3u8
 http://thaicable.myftp.org:8000/live/infosat/2020/74.ts 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_03_hd.png" group-title="BeinSports",BeinSport3
+http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25963
 http://209.126.8.89:25461/live/dlnabein/dlnabein/3.ts
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6124/index.m3u8 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_04_hd.png" group-title="BeinSports",BeinSport4 
+http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25962
 http://194.32.79.172/bein4/tracks-v1a1/mono.m3u8
 http://209.126.8.89:25461/live/dlnabein/dlnabein/4.ts
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6125/index.m3u8 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_05_hd.png" group-title="BeinSports",BeinSport5 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_05_hd.png" group-title="BeinSports",BeinSport5
+ http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25961
 http://209.126.8.89:25461/live/dlnabein/dlnabein/5.ts
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6126/index.m3u8 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_06_hd.png" group-title="BeinSports",BeinSport6 
+http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25960
 http://194.32.79.172/bein6/tracks-v1a1/mono.m3u8
 http://209.126.8.89:25461/live/dlnabein/dlnabein/6.ts
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6127/index.m3u8 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_07_hd.png" group-title="BeinSports",BeinSport7 
+http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25959
 http://194.32.79.172/bein7/tracks-v1a1/mono.m3u8
 http://209.126.8.89:25461/live/dlnabein/dlnabein/7.ts
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6128/index.m3u8 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_08_hd.png" group-title="BeinSports",BeinSport8 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_08_hd.png" group-title="BeinSports",BeinSport8
+ http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25958
 http://209.126.8.89:25461/live/dlnabein/dlnabein/8.ts
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6129/index.m3u8 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_09_hd.png" group-title="BeinSports",BeinSport9
+http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25957
 http://209.126.8.89:25461/live/dlnabein/dlnabein/9.ts
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6130/index.m3u8 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_10_hd.png" group-title="BeinSports",BeinSport10 
+http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25956
 http://194.32.79.172/bein10/tracks-v1a1/mono.m3u8
 http://209.126.8.89:25461/live/dlnabein/dlnabein/10.ts
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6131/index.m3u8 
