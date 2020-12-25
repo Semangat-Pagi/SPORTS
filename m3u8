@@ -152,6 +152,26 @@ http://d-e-02.cdn.rdsnet.ro/DVR/digisport4hdb.stream/playlit.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 HD" tvg-logo="" group-title="BEIN SPORTS FHD",beIN Sport 1 FHD
+http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/1
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 HD" tvg-logo="" group-title="BEIN SPORTS FHD",beIN Sport 2 FHD
+http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/2
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 3 HD" tvg-logo="" group-title="BEIN SPORTS FHD",beIN Sport 3 FHD
+http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/3
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 4 HD" tvg-logo="" group-title="BEIN SPORTS FHD",beIN Sport 4 FHD
+http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/4
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 5 HD" tvg-logo="" group-title="BEIN SPORTS FHD",beIN Sport 5 FHD
+http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/5
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 6 HD" tvg-logo="" group-title="BEIN SPORTS FHD",beIN Sport 6 FHD
+http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/6
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 7 HD" tvg-logo="" group-title="BEIN SPORTS FHD",beIN Sport 7 FHD
+http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/7
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 8 HD" tvg-logo="" group-title="BEIN SPORTS FHD",beIN Sport 8 FHD
+http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 9 HD" tvg-logo="" group-title="BEIN SPORTS FHD",beIN Sport 9 FHD
+http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/9
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 10 HD" tvg-logo="" group-title="BEIN SPORTS FHD",beIN Sport 10 FHD
+http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/10
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 1" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 1 
 http://194.32.79.172/bein1s/tracks-v1a1/mono.m3u8 
