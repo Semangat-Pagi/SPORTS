@@ -152,39 +152,6 @@ http://d-e-02.cdn.rdsnet.ro/DVR/digisport4hdb.stream/playlit.m3u8
 
 
 
-#EXTINF:0 tvg-id="beinsport1" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_big1.png" group-title="USEE SPORTS ZI",beIN Sport 1
-http://harber.xyz/stream/usee-bein1-milik-harberkuy.m3u8
-
-#EXTINF:0 tvg-id="beinsport2" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="USEE SPORTS ZI",beIN Sport 2
-http://harber.xyz/stream/usee-bein2-milik-harberkuy.m3u8
-
-#EXTINF:0 tvg-id="useesport1" tvg-name="" tvg-logo="https://macan.network/img/useetv.png" group-title="USEE SPORTS ZI",UseeSports 1
-http://harber.xyz/stream/usee-useesport-milik-harberkuy.m3u8
-
-#EXTINF:0 tvg-id="useesport2" tvg-name="" tvg-logo="https://macan.network/img/useetv.png" group-title="USEE SPORTS ZI",UseeSports 2
-http://harber.xyz/stream/usee-useesports2-milik-harberkuy.m3u8
-
-#EXTINF:0 tvg-id="championtv1" tvg-name="" tvg-logo="https://macan.network/img/champions1.png" group-title="USEE SPORTS ZI",Champions TV 1
-http://harber.xyz/stream/usee-champion1-milik-harberkuy.m3u8
-
-#EXTINF:0 tvg-id="championtv2" tvg-name="" tvg-logo="https://macan.network/img/champions1.png" group-title="USEE SPORTS ZI",Champions TV 2
-http://harber.xyz/stream/usee-champion2-milik-harberkuy.m3u8
-
-#EXTINF:0 tvg-id="foxsport1" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="USEE SPORTS ZI",Fox Sport 1
-http://harber.xyz/stream/usee-foxsport1-milik-harberkuy.m3u8
-
-#EXTINF:0 tvg-id="foxsport2" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png" group-title="USEE SPORTS ZI",Fox Sport 2
-http://harber.xyz/stream/usee-foxsport2-milik-harberkuy.m3u8
-
-#EXTINF:0 tvg-id="foxsport3" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png" group-title="USEE SPORTS ZI",Fox Sport 3
-http://harber.xyz/stream/usee-foxsport3-milik-harberkuy.m3u8
-
-#EXTINF:0 tvg-id="nbatv" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png" group-title="USEE SPORTS ZI",NBA TV
-http://harber.xyz/stream/usee-nba-milik-harberkuy.m3u8
-
-#EXTINF:0 tvg-id="egg" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/EGG_Network.png" group-title="USEE SPORTS ZI",Egg Network TV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02-milik-harberkuy.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 HD" tvg-logo="" group-title="BEINSPORTS FHD",beIN Sport 1 FHD
 http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/1
