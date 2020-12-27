@@ -420,6 +420,7 @@ http://193.42.99.130:23455/3660/playlist.m3u8
 
 =============================================BeinSports==================================================================
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hk.png" group-title="BeinSports",BeinSport1 
+http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25965
 http://209.126.8.89:25461/live/dlnabein/dlnabein/1.ts
 http://160.119.77.116:8081/iptv/fr-bein1hd.stream/playlist.m3u8
 http://thaicable.myftp.org:8000/live/infosat/2020/73.ts
