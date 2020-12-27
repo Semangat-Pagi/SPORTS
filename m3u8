@@ -188,7 +188,7 @@ http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/10
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 1" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 1 
 http://194.32.79.172/bein1s/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 2" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 2 
-http://194.32.79.172/bein2/tracks-v1a1/mono.m3u8 
+http://194.32.79.172/beins2/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 3" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 3 
 http://194.32.79.172/beins3/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 4" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 4 
@@ -412,7 +412,6 @@ http://193.42.99.130:23455/3660/playlist.m3u8
 
 =============================================BeinSports==================================================================
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hk.png" group-title="BeinSports",BeinSport1 
-http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25965
 http://209.126.8.89:25461/live/dlnabein/dlnabein/1.ts
 http://160.119.77.116:8081/iptv/fr-bein1hd.stream/playlist.m3u8
 http://thaicable.myftp.org:8000/live/infosat/2020/73.ts
