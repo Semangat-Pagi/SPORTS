@@ -264,6 +264,12 @@ http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28439
 http://iptv.zqstream.com/zqsport-gen/video.m3u8?token=vQqPVtl-k0
 #EXTINF:-1 tvg-logo="" group-title="FOOTBALL",FOX 5
 http://cdnak10.cast4u.info/channels/4/10804.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",football 1
+https://95-213-224-179.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",football 2
+https://95-213-224-179.livesports24.online/fooootball2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",football 3
+https://95-213-224-179.livesports24.online/football3ua.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FOOTBALL",RUSIA 1
 https://95-213-224-179.livesports24.online/khlhdru.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FOOTBALL",RUSIA 2
