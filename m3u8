@@ -152,7 +152,18 @@ http://d-e-02.cdn.rdsnet.ro/DVR/digisport4hdb.stream/playlit.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 HD" tvg-logo="" group-title="BEINSPORTS FHD",STAR SPORT SELECT 2 
+http://sonyiptv.net:8080/stream90/stream5599321/77856
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 HD" tvg-logo="" group-title="BEINSPORTS FHD",STAR SPORT SELECT 2 
+http://195.154.174.107:25461/stream90/stream5599321/77856?token=GhMNBEZcR1gRXwwMVV5RAgYBA1EAUFtSUgcBBQsAAwECA1RUA1EEWwBEGBoXEhZRBVtrXgVGAgdVXgICHxpDEARDOgxRFl9ABV4HDEZKRkANW1EVW1UOAFtWAA0FDwBPQ0EMARcOCxdfChgaAR4QURZYVVs+AF1GCwVSFglWQw8NHUcKW2sBB14HWlxGXEYFRhoWXhIUGgoME1tYHxpUChVDBBFQFl8MRgpYFEYFC0EKQkZOQ14aeSZEGxZWQEIGD0IMClsWX0BHFRYURg8XaxZTR0MTAVldBxQVDhEJFE9DXAQdalcKDF0DV0wNCQpHRgwWBlFUGhxAC1haWkxZET5BDAEXDgsXXwpJ
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 HD" tvg-logo="" group-title="BEINSPORTS FHD",sports 5
+http://sonyiptv.net:8080/stream90/stream5599321/26727
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 HD" tvg-logo="" group-title="BEINSPORTS FHD",SUPERSPORTS 1
+http://sonyiptv.net:8080/stream90/stream5599321/27618
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 HD" tvg-logo="" group-title="BEINSPORTS FHD",SUPERSPORTS 2
+http://sonyiptv.net:8080/stream90/stream5599321/27619
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 HD" tvg-logo="" group-title="BEINSPORTS FHD",SUPERSPORTS 3
+http://sonyiptv.net:8080/stream90/stream5599321/27620
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 HD" tvg-logo="" group-title="BEINSPORTS FHD",beIN Sport 1 FHD
 http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/1
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 HD" tvg-logo="" group-title="BEINSPORTS FHD",beIN Sport 2 FHD
