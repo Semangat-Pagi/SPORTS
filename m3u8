@@ -109,6 +109,30 @@ http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/9
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport 10 HD" tvg-logo="" group-title="BEINSPORTS FHD",beIN Sport 10 FHD
 http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/10
 http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/10
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 1 SD
+http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/12
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 2 SD
+http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/13
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 3 SD
+http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/14
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 4 SD
+http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/15
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 5 SD
+http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/16
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 6 SD
+http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/17
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 7 SD
+http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/18
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 8 SD
+http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/19
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS FHD",BEIN SPORTS 1 FRA
+http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/273
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS FHD",BEIN SPORTS 2 FRA
+http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/274
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS FHD",BEIN SPORTS 3 FRA
+http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/275
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 1" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 1 
 http://194.32.79.172/bein1s/tracks-v1a1/mono.m3u8 
