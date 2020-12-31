@@ -80,18 +80,23 @@ http://d-e-02.cdn.rdsnet.ro/DVR/digisport4hdb.stream/playlit.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 HD" tvg-logo="" group-title="BEINSPORTS FHD",beIN Sport 1 FHD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_1HD-ar
 http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/1
 http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/1
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 HD" tvg-logo="" group-title="BEINSPORTS FHD",beIN Sport 2 FHD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_2HD-ar
 http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/2
 http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/2
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport 3 HD" tvg-logo="" group-title="BEINSPORTS FHD",beIN Sport 3 FHD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_3HD-ar
 http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/3
 http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/3
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport 4 HD" tvg-logo="" group-title="BEINSPORTS FHD",beIN Sport 4 FHD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_4HD-ar
 http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/4
 http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/4
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport 5 HD" tvg-logo="" group-title="BEINSPORTS FHD",beIN Sport 5 FHD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_5HD-ar
 http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/5
 http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/5
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport 6 HD" tvg-logo="" group-title="BEINSPORTS FHD",beIN Sport 6 FHD
