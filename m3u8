@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",tes bein
+http://zer0live.hjkm.info:11991/mercury/beinsports11/chunks.m3u8?nimblesessionid=582285&wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMjEgMjoyOTowMiBBTSZoYXNoX3ZhbHVlPW5mbU1yZEdveS81R0Z5eDJQbjNkYnc9PSZ2YWxpZG1pbnV0ZXM9Mg==
 http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_1HD-ar
 http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6062
 #EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",RMC SPORT 1
