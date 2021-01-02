@@ -124,6 +124,8 @@ http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/10
 http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/10
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 1 SD
 http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_1HD-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 1 cloning 
+http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_1HD-ar/tracks-v3a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/12
 #EXTINF:0 tvg-id="bein2hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 2 SD
 http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_2HD-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
