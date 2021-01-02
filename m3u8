@@ -70,46 +70,6 @@ http://d-e-02.cdn.rdsnet.ro/DVR/digisport4hdb.stream/playlit.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 HD" tvg-logo="" group-title="BEINSPORTS FHD",beIN Sport 1 FHD
-http://best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/1
-http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/1
-http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/1
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 HD" tvg-logo="" group-title="BEINSPORTS FHD",beIN Sport 2 FHD
-http://best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/2
-http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/2
-http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/2
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 3 HD" tvg-logo="" group-title="BEINSPORTS FHD",beIN Sport 3 FHD
-http://best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/3
-http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/3
-http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/3
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 4 HD" tvg-logo="" group-title="BEINSPORTS FHD",beIN Sport 4 FHD
-http://best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/4
-http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/4
-http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/4
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 5 HD" tvg-logo="" group-title="BEINSPORTS FHD",beIN Sport 5 FHD
-http://best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/5
-http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/5
-http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/5
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 6 HD" tvg-logo="" group-title="BEINSPORTS FHD",beIN Sport 6 FHD
-http://best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/6
-http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/6
-http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/6
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 7 HD" tvg-logo="" group-title="BEINSPORTS FHD",beIN Sport 7 FHD
-http://best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/7
-http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/7
-http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/7
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 8 HD" tvg-logo="" group-title="BEINSPORTS FHD",beIN Sport 8 FHD
-http://best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/8
-http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/8
-http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 9 HD" tvg-logo="" group-title="BEINSPORTS FHD",beIN Sport 9 FHD
-http://best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/9
-http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/9
-http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/9
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 10 HD" tvg-logo="" group-title="BEINSPORTS FHD",beIN Sport 10 FHD
-http://best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/10
-http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/10
-http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/10
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 1 SD
 http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_1HD-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/12
@@ -163,7 +123,7 @@ http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/784
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 10" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 10 
 http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/785
 #EXTINF:0 tvg-id="ext" group-title="beIN SPORTS FHD",beIN SPORT 11HD
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1272
+http://38.143.137.60:8080/malissa/malissa/30238?token=HUdaWBUKEQtABFMBDABbDVNXAAYFUQQPAw0FAgZUAQxUBANbU1FXBwAVTxdHEBBQAF9rWlERCQoCClVeHRcRRwMXbVACQAkTWwJaDAVGThcVW1lWFwkCDwIBUFcDB1AMSkdCUAJACRNRAVYGDEZOFwRKQFZHXVJVbVwDEFhWARZcC0dVCk4RXgxoB1BZBQxRQwgWAxcfEVBBSERcE2UwFDIAXlwNDV5EDF4IVEcNQnwPVltdUEBaWBAURARYQRZVEgAQA0RVAQJVFU8XVwsXWxVATREPEXp9EBREA0lBAVoVDF1XRFgRRREVTxddFz1HBEFAQVBSXlxAGlxEARdIFgsESmYFDV1fB1QXXFsKERdbEAYRGRFeVlxREglDahRdAkcIG1VSCwNSFR4=
 #EXTINF:0 tvg-id="ext" group-title="beIN SPORTS FHD",beIN SPORT 12HD
 http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1273
 #EXTINF:0 tvg-id="ext" group-title="beIN SPORTS FHD",beIN SPORTS 13HD
