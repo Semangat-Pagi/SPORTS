@@ -1,25 +1,13 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",tes bein
+#EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",tes biji kates 
 http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_1HD-ar
 http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6062
 #EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",RMC SPORT 1
 http://51.15.12.219:8080/kennythetiger244/n6wfNmBlQA/6062?token=GhoNVBVaEA4WUgANVgNSXFgBDgUHAFdRVw5bU1cMB1ZVAVAFUwZQAg1BHBpHRhBdAA9oDQdACQQDDlAdE0FHARNnDFFECBAABVQBGhgQFlEMBxVeUlQDCwMBUgYJBxhGEVEBF1wQAAwEUQcaGBAHQBUHRQoCDmxWVk4LUlQWDgoUVAkZRF1ca1AGXVlaVkACQ1MVSEELQEIRAgxEXVgYRgNREUcHRlcWDkEBAA0CQBRDAVgRDRZBSxECQGRiFhhGBEARUAhBW1taQQoaQEFAFEMLRDsRB0BGQV0DXFRGFl5DCUcZRF9TTGsAX1ZaVwFMCA1ZF0FYEQMDCFITHRZZCw9REVoUbUJdUEEKGgYFVw1ZQEo
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 HD" tvg-logo="" group-title="WORLD SPORTS",STAR SPORT SELECT 2 
-http://sonyiptv.net:8080/stream90/stream5599321/77856
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 HD" tvg-logo="" group-title="WORLD SPORTS",STAR SPORT SELECT 2 
-http://195.154.174.107:25461/stream90/stream5599321/77856?token=GhMNBEZcR1gRXwwMVV5RAgYBA1EAUFtSUgcBBQsAAwECA1RUA1EEWwBEGBoXEhZRBVtrXgVGAgdVXgICHxpDEARDOgxRFl9ABV4HDEZKRkANW1EVW1UOAFtWAA0FDwBPQ0EMARcOCxdfChgaAR4QURZYVVs+AF1GCwVSFglWQw8NHUcKW2sBB14HWlxGXEYFRhoWXhIUGgoME1tYHxpUChVDBBFQFl8MRgpYFEYFC0EKQkZOQ14aeSZEGxZWQEIGD0IMClsWX0BHFRYURg8XaxZTR0MTAVldBxQVDhEJFE9DXAQdalcKDF0DV0wNCQpHRgwWBlFUGhxAC1haWkxZET5BDAEXDgsXXwpJ
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 HD" tvg-logo="" group-title="WORLD SPORTS",STAR SPORT SELECT 1
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 HD" tvg-logo="" group-title="WORLD SPORTS",STAR SPORT SELECT 2
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 HD" tvg-logo="" group-title="WORLD SPORTS",sports 5
-http://sonyiptv.net:8080/stream90/stream5599321/26727
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 HD" tvg-logo="" group-title="WORLD SPORTS",SUPERSPORTS 1
-http://sonyiptv.net:8080/stream90/stream5599321/27618
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 HD" tvg-logo="" group-title="WORLD SPORTS",SUPERSPORTS 2
-http://sonyiptv.net:8080/stream90/stream5599321/27619
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 HD" tvg-logo="" group-title="WORLD SPORTS",SUPERSPORTS 3
-http://sonyiptv.net:8080/stream90/stream5599321/27620
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bt sport1
 http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bt sport2
@@ -124,8 +112,6 @@ http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/10
 http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/10
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 1 SD
 http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_1HD-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 1 cloning 
-http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_1HD-ar/tracks-v3a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/12
 #EXTINF:0 tvg-id="bein2hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 2 SD
 http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_2HD-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
@@ -148,12 +134,11 @@ http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/18
 #EXTINF:0 tvg-id="bein8hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 8 SD
 http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_8HD-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/19
-#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS FHD",BEIN SPORTS 1 FRA
-http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/273
-#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS FHD",BEIN SPORTS 2 FRA
-http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/274
-#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS FHD",BEIN SPORTS 3 FRA
-http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/275
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 9
+http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_9HD-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 10
+http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_10HD-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+
 
 
 
@@ -220,8 +205,6 @@ http://62.182.80.214:25461/C2yPaVWa7K/QDTnsaSUJ1/23608?token=SUBdUkMKGgkXBFMEBAQ
 
 #EXTINF:-1 tvg-logo="" group-title="FOOTBALL",ZQ SPORTS 
 http://iptv.zqstream.com/zqsport-gen/video.m3u8?token=vQqPVtl-k0
-#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",FOX 5
-http://cdnak10.cast4u.info/channels/4/10804.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FOOTBALL",football 1
 https://95-213-224-179.livesports24.online/uafootballua1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FOOTBALL",football 2
@@ -248,12 +231,6 @@ https://95-213-224-179.livesports24.online/footballrus.m3u8
 https://hackey.stream/hlsrio/test.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FOOTBALL",NBCSN 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/606
-#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",BEIN SPORT ENGLISH 
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
-#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",BEIN N
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
-#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",FORMULA 1
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/6
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 1
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 2
