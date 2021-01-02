@@ -197,42 +197,25 @@ http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/7735
 http://62.182.80.214:25461/C2yPaVWa7K/QDTnsaSUJ1/7735?token=SUBdUkMKGgkXUFZXVQMGAwAGAl1eUlYIDQBWUQ0CVFEGAQ1VAAcBBQMTSRdDRBBUBF5pDFwRWAYCVlYcF0ESUkA9XFcSWBoHAQhSAAMSThMRWlsAGglTBwVcVggNAFcOHkBFWlRAAhEBAFQMEhxAVB1HUxdWUg5uUQAVWVZRQw1cF1lfHEBXXWpVAFhRXgYTXxEGRxQRC0JFR1leQFgNGxAAXEdCA0xWFwtHBwgCUhNJEVUKTV0WQ0xHWRJ8cEMbEAdNR1UMS1paX0cPEkQRE0kRXxZnQQdCQRcGUVhRExUIQAURHEBVUk1uBlpeXgdSEVpZC0sRWBMER08SWFsPXkYNR2xAC1wRDxNRBAACQEw=
 #EXTINF:0 tvg-id="ext" group-title="Channels",SK2
 http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/7734
+#EXTINF:0 tvg-id="ext" group-title="Channels",SK2
+http://62.182.80.214:25461/C2yPaVWa7K/QDTnsaSUJ1/7734?token=SUBdUkMKGgkXCVJUA1MBU10LVAcOAQEHA1VSAlAGUANWAVBWUgNdUVYTSRdDRBBUBF5pDFwRWAYCVlccF0ESUkA9XFcSWBoHAQhSAAMSThMRWlsAGglTBwVcVggMB1UCHkBFWlRAAhEECVMBBhJOEwBLQgBKXQNdagEGRlxXBBUIDEBfXE4aXFtuAVBdUQxVRwkUVRofQFhGFUEKW0ENWx5AV1pEEFlHUBNfFwIIUAVHHxQGV0YMRUccQQoXfSUVHkBQS0QHVkBcXgsXChIWQkcfFAxLbBBURhERVVRZBEUQWBcDEk4aXlRJOlZfXgxUBkdfClZAQAsXVEEcF1kOWVsWWkFvElFXFwtHBAgFVAdHTg==
 #EXTINF:0 tvg-id="ext" group-title="Channels",SK3
 http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/7733
+#EXTINF:0 tvg-id="ext" group-title="Channels",SK3
+http://62.182.80.214:25461/C2yPaVWa7K/QDTnsaSUJ1/7733?token=SUBdUkMKGgkXUFZRBFMBVQRXUAMOVldQUF0GAAIGWQIABFYEB1MLAwMTSRdDRBBUBF5pDFwRWAYCVlAcF0ESUkA9XFcSWBoHAQhSAAMSThMRWlsAGglTBwVcVggMAFUCHkBFWlRAAhEGAFQGCBJOEwBLQgBKXQNdagEGRlxXBBUIDEBfXE4aXFtuAVBdUQxVRwkUVRofQFhGFUEKW0ENWx5AV1pEEFlHUBNfFwQJVABHHxQGV0YMRUccQQoXfSUVHkBQS0QHVkBcXgsXChIWQkcfFAxLbBBURhERVVRZBEUQWBcDEk4aXlRJOlZfXgxUBkdfClZAQAsXVEEcF1kOWVsWWkFvElFXFwtHBgEBUQBHTg==
 #EXTINF:0 tvg-id="ext" group-title="Channels",SK4
 http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/23610
+#EXTINF:0 tvg-id="ext" group-title="Channels",SK4
+http://62.182.80.214:25461/C2yPaVWa7K/QDTnsaSUJ1/23610?token=SUBdUkMKGgkXBFYAUVRaCF1VAFAAVwQCBgBTBQAMWVIHBAUFUVEMBwETSRdDRBBUBF5pDFwRWAMGU1IAGRYURFcQalpUQAIRAQVcAgUDQB1HR18IXRFYAANVWgUNDVUPA04XQ1kGGgkXA1UCBAFAHUdWThFdQQxQWToHVUNdAlIQWFtGXA4UEVpfOlFVXQNfAREMRwgRThNcFhMSD1oUW15OF1FZFkpSQVRHDxICUgNRERpHW1wXX0EXGhIPFihzEE4XVkgWXV1GWApbEgpARRYRGkdRQD1DUBYXQlBVDFJAQA8RAEAUEVhQHWpTXwxfAFBCDFddERMPR1ISGRYMWFwLQVxCPUhaURNfFwIAVQBSEUs=
 #EXTINF:0 tvg-id="ext" group-title="Channels",SK5
 http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/23609
+#EXTINF:0 tvg-id="ext" group-title="Channels",SK5
+http://62.182.80.214:25461/C2yPaVWa7K/QDTnsaSUJ1/23609?token=SUBdUkMKGgkXUFwACVQAAgYAUwABBAdVAwBQCVNSVFJTWwAFCVIMBQwTSRdDRBBUBF5pDFwRWAMGU1MJGRYURFcQalpUQAIRAQVcAgUDQB1HR18IXRFYAANVWgUNDVQGAU4XQ1kGGgkXAFcDBAJAHUdWThFdQQxQWToHVUNdAlIQWFtGXA4UEVpfOlFVXQNfAREMRwgRThNcFhMSD1oUW15OF1FZFkpSQVRHDxICUgBdERpHW1wXX0EXGhIPFihzEE4XVkgWXV1GWApbEgpARRYRGkdRQD1DUBYXQlBVDFJAQA8RAEAUEVhQHWpTXwxfAFBCDFddERMPR1ISGRYMWFwLQVxCPUhaURNfFwECUQZREUs=
 #EXTINF:0 tvg-id="ext" group-title="Channels",SK6
 http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/23608
-#EXTINF:0 tvg-id="ext" group-title="Channels",AF:  SuperSport 1
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28426
-#EXTINF:0 tvg-id="ext" group-title="Channels",AF:  SuperSport 2
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28427
-#EXTINF:0 tvg-id="ext" group-title="Channels",AF: SuperSport 3
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28428
-#EXTINF:0 tvg-id="ext" group-title="Channels",AF: SuperSport 4
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28429
-#EXTINF:0 tvg-id="ext" group-title="Channels",AF: SuperSport 5
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28430
-#EXTINF:0 tvg-id="ext" group-title="Channels",AF: SuperSport 6
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28431
-#EXTINF:0 tvg-id="ext" group-title="Channels",AF: SuperSport 7
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28432
-#EXTINF:0 tvg-id="ext" group-title="Channels",AF: SuperSport 8
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28433
-#EXTINF:0 tvg-id="ext" group-title="Channels",AF: SuperSport 9
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28434
-#EXTINF:0 tvg-id="ext" group-title="Channels",AF: SuperSport 10
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28435
-#EXTINF:0 tvg-id="ext" group-title="Channels",AF: SuperSport 11
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28436
-#EXTINF:0 tvg-id="ext" group-title="Channels",AF: SuperSport 12
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28437
-#EXTINF:0 tvg-id="ext" group-title="Channels",AF: SUPERSPORT MAXIMO
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28438
-#EXTINF:0 tvg-id="ext" group-title="Channels",AF: SUPERSPORT BLITZ
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28439
+#EXTINF:0 tvg-id="ext" group-title="Channels",SK6
+http://62.182.80.214:25461/C2yPaVWa7K/QDTnsaSUJ1/23608?token=SUBdUkMKGgkXBFMEBAQDUlJSDwFdUQAHVAdTUQUHBAJQBgEGCQEOBwITSRdDRBBUBF5pDFwRWAMGU1MIGRYURFcQalpUQAIRAQVcAgUDQB1HR18IXRFYAANVWgUNDVQDC04XQ1kGGgkXBFIECRJOEwBLQgBKXQNdagEGRlxXBBUIDEBfXE4aXFtuAVBdUQxVRwkUVRofQFhGFUEKW0ENWx5AV1pEEFlHUBNfFwIAUwZHHxQGV0YMRUccQQoXfSUVHkBQS0QHVkBcXgsXChIWQkcfFAxLbBBURhERVVRZBEUQWBcDEk4aXlRJOlZfXgxUBkdfClZAQAsXVEEcF1kOWVsWWkFvElFXFwtHBAAAVxMY
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="FOOTBALL",ZQ SPORTS 
