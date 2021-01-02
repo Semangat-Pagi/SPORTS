@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",tes bein
-http://zer0live.hjkm.info:11991/mercury/beinsports11/chunks.m3u8?nimblesessionid=582285&wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMjEgMjoyOTowMiBBTSZoYXNoX3ZhbHVlPW5mbU1yZEdveS81R0Z5eDJQbjNkYnc9PSZ2YWxpZG1pbnV0ZXM9Mg==
 http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_1HD-ar
 http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6062
 #EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",RMC SPORT 1
@@ -9,8 +8,10 @@ http://51.15.12.219:8080/kennythetiger244/n6wfNmBlQA/6062?token=GhoNVBVaEA4WUgAN
 http://sonyiptv.net:8080/stream90/stream5599321/77856
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 HD" tvg-logo="" group-title="WORLD SPORTS",STAR SPORT SELECT 2 
 http://195.154.174.107:25461/stream90/stream5599321/77856?token=GhMNBEZcR1gRXwwMVV5RAgYBA1EAUFtSUgcBBQsAAwECA1RUA1EEWwBEGBoXEhZRBVtrXgVGAgdVXgICHxpDEARDOgxRFl9ABV4HDEZKRkANW1EVW1UOAFtWAA0FDwBPQ0EMARcOCxdfChgaAR4QURZYVVs+AF1GCwVSFglWQw8NHUcKW2sBB14HWlxGXEYFRhoWXhIUGgoME1tYHxpUChVDBBFQFl8MRgpYFEYFC0EKQkZOQ14aeSZEGxZWQEIGD0IMClsWX0BHFRYURg8XaxZTR0MTAVldBxQVDhEJFE9DXAQdalcKDF0DV0wNCQpHRgwWBlFUGhxAC1haWkxZET5BDAEXDgsXXwpJ
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 HD" tvg-logo="" group-title="WORLD SPORTS",STAR SPORT SELECT 1
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 HD" tvg-logo="" group-title="WORLD SPORTS",STAR SPORT SELECT 2
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 HD" tvg-logo="" group-title="WORLD SPORTS",sports 5
 http://sonyiptv.net:8080/stream90/stream5599321/26727
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 HD" tvg-logo="" group-title="WORLD SPORTS",SUPERSPORTS 1
