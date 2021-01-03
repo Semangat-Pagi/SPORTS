@@ -420,6 +420,14 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/playlist.m3u8
 
 
 =====================================================AstroSports===========================================================================
+#EXTINF:-1 tvg-logo="TEST" group-title="AstroSports",Astro SuperSports1
+http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="AstroSports",Astro SuperSports2
+http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="AstroSports",Astro SuperSports3
+http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="AstroSports",Astro SuperSports4
+http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 #EXTINF:-1 group-title="AstroSports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_300.png",Astro SuperSport 1
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 #EXTINF:-1 group-title="AstroSports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_300.png",Astro SuperSport 1
