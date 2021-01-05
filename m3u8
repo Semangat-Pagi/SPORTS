@@ -99,8 +99,18 @@ http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/19
 http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_9HD-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:0 tvg-id="bein8hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 10
 http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_10HD-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
-
-
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 11
+http://185.246.210.55:2200/EX/bein11hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 1
+http://185.246.210.55:2200/EX/bein1hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 2
+http://185.246.210.55:2200/EX/bein2hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 3
+http://185.246.210.55:2200/EX/bein3hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 4
+http://185.246.210.55:2200/EX/bein4hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 5
+http://185.246.210.55:2200/EX/bein5hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 1" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 1 
