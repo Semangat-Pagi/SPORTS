@@ -72,34 +72,45 @@ http://d-e-02.cdn.rdsnet.ro/DVR/digisport4hdb.stream/playlit.m3u8
 
 
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 1 SD
+http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25965
 http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_1HD-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/12
 #EXTINF:0 tvg-id="bein2hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 2 SD
+http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25964
 http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_2HD-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/13
 #EXTINF:0 tvg-id="bein3hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 3 SD
+http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25963
 http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_3HD-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/14
 #EXTINF:0 tvg-id="bein4hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 4 SD
+http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25962
 http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_4HD-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/15
 #EXTINF:0 tvg-id="bein5hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 5 SD
+http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25961
 http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_5HD-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/16
 #EXTINF:0 tvg-id="bein6hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 6 SD
+http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25960
 http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_6HD-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/17
 #EXTINF:0 tvg-id="bein7hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 7 SD
+http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25959
 http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_7HD-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/18
 #EXTINF:0 tvg-id="bein8hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 8 SD
+http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25958
 http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_8HD-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/19
 #EXTINF:0 tvg-id="bein8hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 9
+http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25957
 http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_9HD-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:0 tvg-id="bein8hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 10
+http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25956
 http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_10HD-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:0 tvg-id="bein8hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 11
+http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25955
 http://185.246.210.55:2200/EX/bein11hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:0 tvg-id="bein8hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 1
 http://185.246.210.55:2200/EX/bein1hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
@@ -324,20 +335,9 @@ http://193.42.99.130:23455/3660/playlist.m3u8
 
 =============================================BeinSports==================================================================
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hk.png" group-title="BeinSports",BeinSport1 
-http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/downtstealUSERT2neThfdl6325gmldplease/55f23g854f21d32/1442
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hk.png" group-title="BeinSports",BeinSport1 cloning 
-http://kakalata.alibabaiptv.com:8880/downtstealUSERT2neThfdl6325gmldplease/55f23g854f21d32/1442?token=SRFRBBEOEQIWVFFQDFMHUVUEA1MBClNXVwRQDFFXC1IHBgABB1IDAAETG0RLEBNQBV5pC10RCgUGVgcZRBdAAEBsUAFAXBEKDRMbREwNDFBGCQdUCQoFAgpaAg1KQEMMVhEDR1FWBgsFExtEXRwVUBZdVw5mV1VCWwFQF1wMRgleHxsKDDlXXVlQWQIaXkMERh8UC0pDEg5cF1lZSkBRDEZBWBEHRAkaBQMDURpIQ1YLRlgWS0oSDhArcRdKQFYdRlZXFgsJXRoOE0MVGkhDXBdsRAdKR0JRUw9QR0RYEVUQHxsIAx5sW1tfWQNbEAhaCkAUWBsCAAQQThdYCQxaEV1BZhULAhECFgIHUwlXQ0g=
-http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25965
-http://209.126.8.89:25461/live/dlnabein/dlnabein/1.ts
 http://160.119.77.116:8081/iptv/fr-bein1hd.stream/playlist.m3u8
-http://thaicable.myftp.org:8000/live/infosat/2020/73.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_02_hk.png" group-title="BeinSports",BeinSport2 
-http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/downtstealUSERT2neThfdl6325gmldplease/55f23g854f21d32/1443
-http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25964
-http://194.32.79.172/bein2/tracks-v1a1/mono.m3u8
-http://209.126.8.89:25461/live/dlnabein/dlnabein/2.ts
-http://160.119.77.116:8081/iptv/fr-bein2hd.stream/playlist.m3u8
-http://thaicable.myftp.org:8000/live/infosat/2020/74.ts 
+http://160.119.77.116:8081/iptv/fr-bein2hd.stream/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_03_hd.png" group-title="BeinSports",BeinSport3
 http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6124/index.m3u8
 http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/downtstealUSERT2neThfdl6325gmldplease/55f23g854f21d32/1444
@@ -393,9 +393,7 @@ http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6131/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_11_hd.png" group-title="BeinSports",BeinSport11 
 http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6132/index.m3u8
 http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/downtstealUSERT2neThfdl6325gmldplease/55f23g854f21d32/1452
-http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6132/index.m3u8 
-#EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_SPORTS_11.png" group-title="BeinSports",BeinSport11 
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/360.ts 
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6132/index.m3u8  
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_12_hd.png" group-title="BeinSports",BeinSport12 
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6133/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BeinSports",EPL 1
