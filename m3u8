@@ -157,6 +157,33 @@ http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6160
 http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6161
 
 
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",B news
+http://piwale.com:8080/BEIN2021/11223344/40229
+#EXTINF:0 tvg-id="ext" group-title="Channels",b11
+http://piwale.com:8080/BEIN2021/11223344/40219
+#EXTINF:0 tvg-id="ext" group-title="Channels",b12
+http://piwale.com:8080/BEIN2021/11223344/40218
+#EXTINF:0 tvg-id="ext" group-title="Channels",b10
+http://piwale.com:8080/BEIN2021/11223344/40217
+#EXTINF:0 tvg-id="ext" group-title="Channels",b9
+http://piwale.com:8080/BEIN2021/11223344/40216
+#EXTINF:0 tvg-id="ext" group-title="Channels",b8
+http://piwale.com:8080/BEIN2021/11223344/40215
+#EXTINF:0 tvg-id="ext" group-title="Channels",b7
+http://piwale.com:8080/BEIN2021/11223344/40214
+#EXTINF:0 tvg-id="ext" group-title="Channels",B6
+http://piwale.com:8080/BEIN2021/11223344/40213
+#EXTINF:0 tvg-id="ext" group-title="Channels",B5
+http://piwale.com:8080/BEIN2021/11223344/40212
+#EXTINF:0 tvg-id="ext" group-title="Channels",B4
+http://piwale.com:8080/BEIN2021/11223344/40211
+#EXTINF:0 tvg-id="ext" group-title="Channels",B3
+http://piwale.com:8080/BEIN2021/11223344/40210
+#EXTINF:0 tvg-id="ext" group-title="Channels",B2
+http://piwale.com:8080/BEIN2021/11223344/40209
+#EXTINF:0 tvg-id="B1TV.ro" group-title="Channels",B1
+http://piwale.com:8080/BEIN2021/11223344/40208
 #EXTINF:0 tvg-id="ext" group-title="Channels",skysports 2
 http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/540
 #EXTINF:0 tvg-id="ext" group-title="Channels",skysports 2
