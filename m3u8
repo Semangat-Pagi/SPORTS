@@ -2,6 +2,7 @@
 #EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",tess
 https://newlivetv.my.id:443/channel/play.m3u8?id=117&key=MTE3&stream_key=MdLvZvGZ&source=useetv
 #EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",tes2
+https://newlivetv.my.id:443/hbo/family.m3u8?LiveTV&stream_key=MdLvZvGZ
 https://newlivetv.my.id:443/channel/play.m3u8?id=116&key=MTE3&stream_key=MdLvZvGZ&source=useetv
 #EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",tes3
 https://newlivetv.my.id:443/channel/play.m3u8?id=115&key=MTE3&stream_key=MdLvZvGZ&source=useetv
