@@ -5,7 +5,8 @@ https://newlivetv.my.id:443/channel/play.m3u8?id=117&key=MTE3&stream_key=MdLvZvG
 https://newlivetv.my.id:443/channel/play.m3u8?id=116&key=MTE3&stream_key=MdLvZvGZ&source=useetv
 #EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",tes3
 https://newlivetv.my.id:443/channel/play.m3u8?id=115&key=MTE3&stream_key=MdLvZvGZ&source=useetv
-
+#EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",tes4
+https://livetvgo.my.id:443/live/play.m3u8?key=eyJ1c2VyX2lkIjogIjczNzdhM2QwZmNiOWNhNTUiLCAiaWQiOiAzNjksInRpbWUiOiAxNjEwMzA0MzkyfQ==
 https://newlivetv.my.id:443/useetv/thrill-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 https://livetvgo.my.id:443/live/play.m3u8?key=eyJ1c2VyX2lkIjogIjU5ODdiMTlhMjgwYjNmMCIsICJpZCI6IDM2OSwidGltZSI6IDE2MTAyODA3MDF9?token=1c19b627b0605cce20331b837107dfb146d0e371
 #EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",RMC SPORT 1
