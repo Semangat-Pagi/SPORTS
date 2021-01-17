@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",PREMIER1 SD 480P
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",PREMIER1 SD 640P
 https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",PREMIER2 SD 480P
-https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",PREMIER2 SD 640P
 https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",VIP BeIN Sports 1
