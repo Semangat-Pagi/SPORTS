@@ -5,6 +5,31 @@ https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8
 https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",PREMIER2 SD 640P
 https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",VIP BeIN Sports 1
+http://sky4.ddns.net:8000/zaltv/zaltv/7243
+#EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",VIP BeIN Sports 2
+http://sky4.ddns.net:8000/zaltv/zaltv/7244
+#EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",VIP BeIN Sports 3
+http://sky4.ddns.net:8000/zaltv/zaltv/7245
+#EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",VIP BeIN Sports 4
+http://sky4.ddns.net:8000/zaltv/zaltv/7246
+#EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",VIP BeIN Sports 5
+http://sky4.ddns.net:8000/zaltv/zaltv/7247
+#EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",VIP BeIN Sports 6
+http://sky4.ddns.net:8000/zaltv/zaltv/7248
+#EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",VIP BeIN Sports 7
+http://sky4.ddns.net:8000/zaltv/zaltv/7249
+#EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",VIP BeIN Sports 8
+http://sky4.ddns.net:8000/zaltv/zaltv/7250
+#EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",VIP BeIN Sports 9
+http://sky4.ddns.net:8000/zaltv/zaltv/7251
+#EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",VIP BeIN Sports 10
+http://sky4.ddns.net:8000/zaltv/zaltv/7252
+#EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",VIP BeIN Sports 11
+http://sky4.ddns.net:8000/zaltv/zaltv/7253
+#EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",VIP BeIN Sports 12
+http://sky4.ddns.net:8000/zaltv/zaltv/7254
+
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",AR: BeiN Sports 1 FHD
 http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/18
 #EXTINF:0 tvg-id="bein2hd.jsc" group-title="WORLD SPORTS",AR: BeiN Sports 2 FHD
