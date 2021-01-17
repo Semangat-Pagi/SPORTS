@@ -12,6 +12,12 @@ https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/bf89e1f7399
 https://dailysportbucket7.s3.eu-west-2.amazonaws.com/e1/1.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",ASTRO SUPERSPORTS SD
 http://87.120.36.62:8080/hls/streama141886/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_1_hd.png" group-title="WORLD SPORTS",Cosmote Sport1
+http://185.132.177.110:8080/COSMOTESport1HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_2_hd.png" group-title="WORLD SPORTS",EPL COSMOTE 2
+http://185.132.177.110:8080/COSMOTESport2HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_3_hd.png" group-title="WORLD SPORTS",EPL COSMOTE 3
+http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",VIP BeIN Sports 1
 http://sky4.ddns.net:8000/zaltv/zaltv/7243
 #EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",VIP BeIN Sports 2
