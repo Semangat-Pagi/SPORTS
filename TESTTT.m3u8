@@ -1,5 +1,6 @@
 #EXTM3U 
-#EXTINF:0 tvg-id="ext" group-title="TEST",1
+#EXTINF:0 tvg-id="ext" group-title="TEST",test
+http://speciallive.hjkm.info:11991/diana/sporttv1hd/playlist.m3u8
 http://zer0live.hjkm.info:11991/mercury/beinsports1/playlist.m3u8
 http://zer0live.hjkm.info:11991/mercury/beinsports1/chunks.m3u8?nimblesessionid=1228132&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDIxIDQ6MzQ6NDIgUE0maGFzaF92YWx1ZT0zNUlSaTNlT2xYdk4rM3c5T21XQWlBPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:0 tvg-id="ext" group-title="TEST",11
