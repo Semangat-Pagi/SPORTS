@@ -20,6 +20,37 @@ http://185.132.177.110:8080/COSMOTESport1HD/video.m3u8
 http://185.132.177.110:8080/COSMOTESport2HD/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_3_hd.png" group-title="WORLD SPORTS",EPL COSMOTE 3
 http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_futbol_1.png" group-title="WORLD SPORTS",Match! Football 1SD
+http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/124/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_futbol_2.png" group-title="WORLD SPORTS",Match! Football 2SD
+http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/530/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_futbol_3.png" group-title="WORLD SPORTS",Match! Football 3SD
+http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/522/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_futbol_1.png" group-title="WORLD SPORTS",Match! Football 1HD
+http://spacetv.in/stream/DIPK8H19CP8/130.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_futbol_2.png" group-title="WORLD SPORTS",Match! Football 2HD
+http://spacetv.in/stream/DIPK8H19CP8/142.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_futbol_3.png" group-title="WORLD SPORTS",Match! Football 3HD
+http://spacetv.in/stream/DIPK8H19CP8/185.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match-premier-ru.png" group-title="WORLD SPORTS",Match! Premier SD
+http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/531/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match-premier-ru.png" group-title="WORLD SPORTS",Match! Premier HD
+http://spacetv.in/stream/DIPK8H19CP8/193.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_tv.png" group-title="WORLD SPORTS",Match! TV
+http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/535/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_igra.png" group-title="WORLD SPORTS",Match! Game
+http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/529/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_arena.png" group-title="WORLD SPORTS",Match! Arena
+http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/528/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_planeta.png" group-title="WORLD SPORTS",Match! Country
+http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/107/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports6.png" group-title="WORLD SPORTS",SkyNet Sport 6
+https://media.publit.io/file/SkyNet-Sport6.mp4
 #EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",VIP BeIN Sports 1
 http://sky4.ddns.net:8000/zaltv/zaltv/7243
 #EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",VIP BeIN Sports 2
