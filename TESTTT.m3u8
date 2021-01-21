@@ -7,5 +7,5 @@ http://zer0live.hjkm.info:11991/mercury/beinsports1/playlist.m3u8
 http://zer0live.hjkm.info:11991/mercury/beinsports1/chunks.m3u8?nimblesessionid=1228132&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDIxIDQ6MzQ6NDIgUE0maGFzaF92YWx1ZT0zNUlSaTNlT2xYdk4rM3c5T21XQWlBPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:0 tvg-id="ext" group-title="TEST",11
 http://zer0live.hjkm.info:11991/mercury/beinsports11/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TEST",nbcsnnnnnnn
+#EXTINF:0 tvg-id="ext" group-title="TEST",nbcsn
 http://159.65.194.83:4544/sports2021/nbcsportsnetwork/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDIxIDQ6NDI6MzAgUE0maGFzaF92YWx1ZT1wUFA0MTUwMmdxN1lkK2plcmVGM3p3PT0mdmFsaWRtaW51dGVzPTEy
