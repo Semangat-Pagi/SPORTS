@@ -216,34 +216,15 @@ http://185.246.210.55:2200/EX/bein4hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 http://185.246.210.55:2200/EX/bein5hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 1" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 1 
-http://194.32.79.172/bein1s/tracks-v1a1/mono.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 2" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 2 
-http://194.32.79.172/bein2s/tracks-v1a1/mono.m3u8 
+
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 3" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 3 
-http://194.32.79.172/beins3/tracks-v1a1/mono.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 4" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 4 
-http://194.32.79.172/bein4/tracks-v1a1/mono.m3u8 
+http://194.32.79.172/beins3/tracks-v1a1/mono.m3u8  
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 5" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 5 
 http://194.32.79.172/beins5/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 6" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 6 
 http://194.32.79.172/bein6/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 7" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 7 
 http://194.32.79.172/bein7/tracks-v1a1/mono.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 8" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 8 
-http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/783 
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 9" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 9 
-http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/784 
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 10" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 10 
-http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/785
-#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS FHD",beIN SPORT 11HD
-http://38.143.137.60:8080/malissa/malissa/30238?token=HUdaWBUKEQtABFMBDABbDVNXAAYFUQQPAw0FAgZUAQxUBANbU1FXBwAVTxdHEBBQAF9rWlERCQoCClVeHRcRRwMXbVACQAkTWwJaDAVGThcVW1lWFwkCDwIBUFcDB1AMSkdCUAJACRNRAVYGDEZOFwRKQFZHXVJVbVwDEFhWARZcC0dVCk4RXgxoB1BZBQxRQwgWAxcfEVBBSERcE2UwFDIAXlwNDV5EDF4IVEcNQnwPVltdUEBaWBAURARYQRZVEgAQA0RVAQJVFU8XVwsXWxVATREPEXp9EBREA0lBAVoVDF1XRFgRRREVTxddFz1HBEFAQVBSXlxAGlxEARdIFgsESmYFDV1fB1QXXFsKERdbEAYRGRFeVlxREglDahRdAkcIG1VSCwNSFR4=
-#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS FHD",beIN SPORT 12HD
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1273
-#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS FHD",beIN SPORTS 13HD
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6160
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="beIN SPORTS FHD",bein14
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6161
 
 
 
