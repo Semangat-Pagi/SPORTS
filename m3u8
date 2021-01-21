@@ -9,12 +9,8 @@ https://www.livedoomovie.com/02_PremierHD2_480p/chunklist.m3u8
 https://dailysportbucket9.s3.eu-west-2.amazonaws.com:443/e1/1.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",EPL LIVE 2
 https://dailysportbucket9.s3.eu-west-2.amazonaws.com:443/4/4.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",EPL PT SPORTS 1
-http://45.58.137.98:80/ptv-123456/index.m3u8?token=c7e338856fbce29628229b5bc34ea899711ce134-O168N7XR2F5GOK1T-1611137553-1611126753
-http://45.58.137.98:80/ptv-123456/index.m3u8?token=5a72b8689dbbc12b7aa080bd0de61338693675e9-69TJ3KOLC5BXCOFK-1611104796-1611093996
-http://45.58.137.98:80/ptv-123456/index.m3u8?token=689d29dbf06aec829b54cada5a9c6c918c3fb582-S2Y9MGNITH1ED2UL-1611126662-1611115862
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",EPL PTV SPORT 2
-http://45.58.137.98:80/ptv-123456/index.m3u8?token=048f773266ba96d43c123b7302183c2abbdf964e-WLZAG0TJGGRJMAN2-1611104920-1611094120
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",EPL PTV SPORTS 1
+http://45.58.137.98:80/ptv-123456/index.m3u8?token=7ec07ded35ae384275017b57fe4fcb3bb21a37e6-DKAANU06UMYX1ZK2-1611228650-1611217850
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",EPL SKYSPORT 
 http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/121
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",LALIGA LIVE
