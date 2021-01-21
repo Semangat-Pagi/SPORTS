@@ -17,7 +17,9 @@ http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8
 http://45.58.137.98:80/ptv-123456/index.m3u8?token=7ec07ded35ae384275017b57fe4fcb3bb21a37e6-DKAANU06UMYX1ZK2-1611228650-1611217850
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",EPL SKYSPORT 
 http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/121
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",LALIGA LIVE
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",LALIGA LIVE 1
+https://liveplay.zrsqlm.com:443/hongqiutv/stream-c2015f4e99ee403ab74a8329744d2640.m3u8?_=1611252140180
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",LALIGA LIVE 2
 https://dailysportbucket9.s3.eu-west-2.amazonaws.com:443/1/1.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",BUNDESLIGA LIVE
 https://dailysportbucket9.s3.eu-west-2.amazonaws.com:443/15/15.m3u8
