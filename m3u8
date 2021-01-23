@@ -32,9 +32,17 @@ https://pull.ruyimjg.com:443/live/24426048ff4e8cb07aa60b6777b6f7384d52_hd.flv?au
 https://pull.tonhorn.cn:443/football/live3_hd.flv?auth_key=1612279053-HZl53UH3fU-0-c5b187faf1483a3975b0e4124cd06913
 https://dailysportbucket9.s3.eu-west-2.amazonaws.com:443/1/1.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",BUNDESLIGA LIVE
+https://pull.tonhorn.cn:443/football/live28_hd.flv?auth_key=1612276182-mz2FsIQkkt-0-923a9d7343b4bca96e3ebf9dc65e3148
 https://dailysportbucket9.s3.eu-west-2.amazonaws.com:443/15/15.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",BUNDESLIGA LIVE 2 
+https://pull.tonhorn.cn:443/football/live27_hd.flv?auth_key=1612276204-lHWov5whBh-0-ea9a2009e29fefb37a9f37825c0a0bd6
 https://dailysportbucket9.s3.eu-west-2.amazonaws.com:443/8/8.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",BUNDESLIGA LIVE 3
+https://pull.tonhorn.cn:443/football/live25_hd.flv?auth_key=1612276250-1a1cBdcq0p-0-643370016cd7c680e0034e33cb31778d
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",BUNDESLIGA LIVE 4
+https://pull.tonhorn.cn:443/football/live26_hd.flv?auth_key=1612276226-z7xMiZE8lm-0-795d921030f4f1bab0f2bc2da963691c
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",BUNDESLIGA LIVE 5
+https://pull.tonhorn.cn:443/football/live10_hd.flv?auth_key=1612276166-PPQDdPeCEZ-0-75090b69c33e2d297f65ca654a8df0ed
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",SERIE A LIVE
 https://pull.tonhorn.cn:443/football/live15_hd.flv?auth_key=1612273991-zQ0ltl98LY-0-0ecbcf557020b81017118d0335d3bc6f
 http://159.65.205.58:3333/sports2021/nbcsportsnetwork/chunks.m3u8?nimblesessionid=455829&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDIxIDU6MTQ6MjYgUE0maGFzaF92YWx1ZT1uMnlCWXpyRUMvcXdlanhzb1NmOXR3PT0mdmFsaWRtaW51dGVzPTEy
