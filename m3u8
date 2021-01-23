@@ -172,30 +172,7 @@ http://d-e-02.cdn.rdsnet.ro/DVR/digisport4hdb.stream/playlit.m3u8
 
 
 
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="BEINSPORTS FHD",BeinSport 1 hd
-http://122.254.76.16:2200/EX/bein1hd-ar/tracks-v1a1/index.m3u8?token=RED_eNtXOzjmYEu9FJ-_3gtTgw==,1611350085.5161336646
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="BEINSPORTS FHD",BeinSport 2 hd
-http://185.246.210.50:2200/EX/bein2hd-ar/tracks-v1a1/index.m3u8?token=RED_eNtXOzjmYEu9FJ-_3gtTgw==,1611350085.5161336646
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="BEINSPORTS FHD",BeinSport 3 hd
-http://185.246.210.50:2200/EX/bein3hd-ar/tracks-v1a1/index.m3u8?token=RED_eNtXOzjmYEu9FJ-_3gtTgw==,1611350085.5161336646
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="BEINSPORTS FHD",BeinSport 4hd
-http://185.246.210.50:2200/EX/bein4hd-ar/tracks-v1a1/index.m3u8?token=RED_eNtXOzjmYEu9FJ-_3gtTgw==,1611350085.5161336646
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="BEINSPORTS FHD",BeinSport 5 hd
-http://185.246.210.50:2200/EX/bein5hd-ar/tracks-v1a1/index.m3u8?token=RED_eNtXOzjmYEu9FJ-_3gtTgw==,1611350085.5161336646
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="BEINSPORTS FHD",BeinSport 6 hd
-http://185.246.210.50:2200/EX/bein6hd-ar/tracks-v1a1/index.m3u8?token=RED_eNtXOzjmYEu9FJ-_3gtTgw==,1611350085.5161336646
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="BEINSPORTS FHD",BeinSport 7 hd
-http://185.246.210.50:2200/EX/bein7hd-ar/tracks-v1a1/index.m3u8?token=RED_eNtXOzjmYEu9FJ-_3gtTgw==,1611350085.5161336646
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="BEINSPORTS FHD",BeinSport 8 hd
-http://185.246.210.50:2200/EX/bein8hd-ar/tracks-v1a1/index.m3u8?token=RED_eNtXOzjmYEu9FJ-_3gtTgw==,1611350085.5161336646
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="BEINSPORTS FHD",BeinSport 9 hd
-http://185.246.210.50:2200/EX/bein9hd-ar/tracks-v1a1/index.m3u8?token=RED_eNtXOzjmYEu9FJ-_3gtTgw==,1611350085.5161336646
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="BEINSPORTS FHD",BeinSport 10 hd
-http://185.246.210.50:2200/EX/bein10hd-ar/tracks-v1a1/index.m3u8?token=RED_eNtXOzjmYEu9FJ-_3gtTgw==,1611350085.5161336646
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="BEINSPORTS FHD",BeinSport 11 hd
-http://185.246.210.50:2200/EX/bein11hd-ar/tracks-v1a1/index.m3u8?token=RED_eNtXOzjmYEu9FJ-_3gtTgw==,1611350085.5161336646
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="BEINSPORTS FHD",BeinSports 1 hevc
-http://185.246.210.50:2200/EX/HEVC_BEIN_SPORTS_1HD-ar/tracks-v1a1/index.m3u8?token=RED_eNtXOzjmYEu9FJ-_3gtTgw==,1611350085.5161336646
+
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 1 SD
 http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25965
 http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_1HD-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
@@ -237,16 +214,7 @@ http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_10HD-ar/tracks-v1a1/mono.m3u8?tok
 #EXTINF:0 tvg-id="bein8hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 11
 http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25955
 http://185.246.210.55:2200/EX/bein11hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
-#EXTINF:0 tvg-id="bein8hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 1
-http://185.246.210.55:2200/EX/bein1hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
-#EXTINF:0 tvg-id="bein8hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 2
-http://185.246.210.55:2200/EX/bein2hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
-#EXTINF:0 tvg-id="bein8hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 3
-http://185.246.210.55:2200/EX/bein3hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
-#EXTINF:0 tvg-id="bein8hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 4
-http://185.246.210.55:2200/EX/bein4hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
-#EXTINF:0 tvg-id="bein8hd.jsc" group-title="BEINSPORTS FHD",beIN Sport 5
-http://185.246.210.55:2200/EX/bein5hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
+
 
 
 
