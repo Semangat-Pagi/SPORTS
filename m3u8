@@ -29,12 +29,14 @@ https://liveplay.zrsqlm.com:443/hongqiutv/stream-c2015f4e99ee403ab74a8329744d264
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",LALIGA LIVE 2
 https://pull.ruyimjg.com:443/live/24426048ff4e8cb07aa60b6777b6f7384d52_hd.flv?auth_key=1672416000-88-0-62cd8f8624ebca0d514d7c9518a19dad
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",LALIGA LIVE 3
+https://pull.tonhorn.cn:443/football/live3_hd.flv?auth_key=1612279053-HZl53UH3fU-0-c5b187faf1483a3975b0e4124cd06913
 https://dailysportbucket9.s3.eu-west-2.amazonaws.com:443/1/1.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",BUNDESLIGA LIVE
 https://dailysportbucket9.s3.eu-west-2.amazonaws.com:443/15/15.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",BUNDESLIGA LIVE 2 
 https://dailysportbucket9.s3.eu-west-2.amazonaws.com:443/8/8.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",TEST
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",SERIE A LIVE
+https://pull.tonhorn.cn:443/football/live15_hd.flv?auth_key=1612273991-zQ0ltl98LY-0-0ecbcf557020b81017118d0335d3bc6f
 http://159.65.205.58:3333/sports2021/nbcsportsnetwork/chunks.m3u8?nimblesessionid=455829&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDIxIDU6MTQ6MjYgUE0maGFzaF92YWx1ZT1uMnlCWXpyRUMvcXdlanhzb1NmOXR3PT0mdmFsaWRtaW51dGVzPTEy
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bt sport1
 https://www.livedoomovie.com:443/02_BTSPORTHD_1_720p/chunklist.m3u8
