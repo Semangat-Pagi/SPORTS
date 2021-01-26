@@ -167,10 +167,6 @@ https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
 https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",TRUE NBA
 https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",setanta Sport
-http://188.93.95.67:80/setanta/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",setanta Sport plus
-http://188.93.95.67:80/setantaplus/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Матч! Футбол 1 HD
 https://chostv.mobie.in/choos/sports/matchqy1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Матч! Футбол 2 HD
