@@ -16,6 +16,8 @@ https://dailysportbucket9.s3.eu-west-2.amazonaws.com:443/e1/1.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",EPL LIVE 2
 https://2zdxtw7ff3qmmt2.ezcdn421.net:8443/hls/iicmwmn5badb9.m3u8?s=w5U1QeRDipGE9boZnMSmuQ&e=1611706783
 https://dailysportbucket9.s3.eu-west-2.amazonaws.com:443/4/4.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",EPL LIVE 3
+https://2zdxtw7ff3qmmt2.ezcdn421.net:8443/hls/oaa446jqf0418.m3u8?s=tPucNdHMMnbVgI4B7fFMFg&e=1611711857
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",EPL PTV SPORTS 1
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",EPL PTV SPORTS 2
@@ -58,13 +60,6 @@ https://liveplay.zrsqlm.com:443/hongqiutv/stream-c2015f4e99ee403ab74a8329744d264
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",SERIE A LIVE 3
 https://pull.tonhorn.cn:443/football/live15_hd.flv?auth_key=1612273991-zQ0ltl98LY-0-0ecbcf557020b81017118d0335d3bc6f
 http://159.65.205.58:3333/sports2021/nbcsportsnetwork/chunks.m3u8?nimblesessionid=455829&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDIxIDU6MTQ6MjYgUE0maGFzaF92YWx1ZT1uMnlCWXpyRUMvcXdlanhzb1NmOXR3PT0mdmFsaWRtaW51dGVzPTEy
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",tes
-https://reels2watch.com/hls/s2.m3u8
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc:80/m3u8/Sports/36b6e8e220e1f7a.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",Nbcsn
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc:80/m3u8/Sports/ff43a2f1625514d.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",Sky Sports primer
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc:80/m3u8/Sports/6d3d6ec2a7db9ae.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",Laliga mytgon 1
 https://185-107-80-245.livesports24.online:443/ntvmatchfoot1.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",Serie A mytgon 2
