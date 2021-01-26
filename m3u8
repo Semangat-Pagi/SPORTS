@@ -13,6 +13,7 @@ https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/bf89e1f7399
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png" group-title="WORLD SPORTS",ZML EPL LIVE1  720P 
 https://dailysportbucket7.s3.eu-west-2.amazonaws.com/e1/1.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",EPL LIVE
+https://2zdxtw7ff3qmmt2.ezcdn421.net:8443/hls/u225jtufy2dkv.m3u8?s=3AXkCO9_LdlCj_dq-Jwa9g&e=1611706420
 https://dailysportbucket9.s3.eu-west-2.amazonaws.com:443/e1/1.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",EPL LIVE 2
 https://dailysportbucket9.s3.eu-west-2.amazonaws.com:443/4/4.m3u8
