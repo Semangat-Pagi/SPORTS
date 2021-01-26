@@ -24,6 +24,8 @@ https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chu
 http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",EPL PTV SPORTS 3
 http://45.58.137.98:80/ptv-123456/index.m3u8?token=7ec07ded35ae384275017b57fe4fcb3bb21a37e6-DKAANU06UMYX1ZK2-1611228650-1611217850
+#EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="http://runnel.ir/ax/logo/sky-sports-premier-league.jpg",PREMIER​ SPORTS​
+http://160.119.77.116:8081/iptv/uk-premiersports.stream/playlist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",Ha Sports
 http://45.58.137.98:80/select-123456/index.m3u8?token=4ae1a75b24c8fc81583d30921cf524650651e4f3-1ISNYFS7SAZUVV3R-1611582123-1611571323
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",PPTV 1
