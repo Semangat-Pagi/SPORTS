@@ -19,12 +19,8 @@ https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/bf89e1f7399
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",EPL PTV SPORTS 2
 http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",EPL PTV SPORTS 3
-http://45.58.137.98:80/ptv-123456/index.m3u8?token=7ec07ded35ae384275017b57fe4fcb3bb21a37e6-DKAANU06UMYX1ZK2-1611228650-1611217850
 #EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="http://runnel.ir/ax/logo/sky-sports-premier-league.jpg",PREMIER​ SPORTS​
 http://160.119.77.116:8081/iptv/uk-premiersports.stream/playlist.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",Ha Sports
-http://45.58.137.98:80/select-123456/index.m3u8?token=4ae1a75b24c8fc81583d30921cf524650651e4f3-1ISNYFS7SAZUVV3R-1611582123-1611571323
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",PPTV 1
 http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/playist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",PPTV 2
@@ -67,6 +63,10 @@ https://46-166-142-27.livesports24.online/rumatchf3.m3u8
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab16_SD.smil/chunklist_w59021678_b2692000.m3u8?uid=y244c4a4s29474z584x506&t_end=o4i5u5h514441394v22474s2p233y2&mytokenstarttime=1600085231&mytokenhash=B3Eo4jgzrqb6qalJ-f53LZcLvs3HT7pC2Rzdyvu3PaM%3D
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",SCTV17-ssport
 https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV17_HD.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",SCTV22-Sports
+https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV22_HD.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",BTV5
+https://vtsstr3.tv24.vn/elive1/_definst_/smil:btv5_HD.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bt sport1
 https://www.livedoomovie.com:443/02_BTSPORTHD_1_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
@@ -118,10 +118,6 @@ http://51.15.12.219:8080/kennythetiger244/n6wfNmBlQA/6061?token=GhoNVBVaEA4WUgAN
 http://51.15.12.219:8080/kennythetiger244/n6wfNmBlQA/6060?token=GhoNVBVaEA4WUgANVgNSXFgBDgUHAFdRVw5bU1cMB1ZVAVAFUwZQAg1BHBpHRhBdAA9oDQdACQQDDlAdE0FHARNnDFFECBAABVQBGhgQFlEMBxVeUlQDCwMBUgYJBxhGEVEBF1wQAAwEUQcaGBAHQBUHRQoCDmxWVk4LUlQWDgoUVAkZRF1ca1AGXVlaVkACQ1MVSEELQEIRAgxEXVgYRgNREUcHRlcWDkEBAA0CQBRDAVgRDRZBSxECQGRiFhhGBEARUAhBW1taQQoaQEFAFEMLRDsRB0BGQV0DXFRGFl5DCUcZRF9TTGsAX1ZaVwFMCA1ZF0FYEQMDCFITHRZZCw9REVoUbUJdUEEKGgYFVw1ZQEo
 #EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",RMC SPORT 4
 http://51.15.12.219:8080/kennythetiger244/n6wfNmBlQA/6059?token=GhoNVBVaEA4WUgANVgNSXFgBDgUHAFdRVw5bU1cMB1ZVAVAFUwZQAg1BHBpHRhBdAA9oDQdACQQDDlAdE0FHARNnDFFECBAABVQBGhgQFlEMBxVeUlQDCwMBUgYJBxhGEVEBF1wQAAwEUQcaGBAHQBUHRQoCDmxWVk4LUlQWDgoUVAkZRF1ca1AGXVlaVkACQ1MVSEELQEIRAgxEXVgYRgNREUcHRlcWDkEBAA0CQBRDAVgRDRZBSxECQGRiFhhGBEARUAhBW1taQQoaQEFAFEMLRDsRB0BGQV0DXFRGFl5DCUcZRF9TTGsAX1ZaVwFMCA1ZF0FYEQMDCFITHRZZCw9REVoUbUJdUEEKGgYFVw1ZQEo
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 HD" tvg-logo="" group-title="WORLD SPORTS",STAR SPORT SELECT 1
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 HD" tvg-logo="" group-title="WORLD SPORTS",STAR SPORT SELECT 2
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bt sport1
 http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bt sport2
