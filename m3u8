@@ -21,6 +21,16 @@ https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chu
 http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8
 #EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="http://runnel.ir/ax/logo/sky-sports-premier-league.jpg",PREMIER​ SPORTS​
 http://160.119.77.116:8081/iptv/uk-premiersports.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Матч! Футбол 1 HD
+https://chostv.mobie.in/choos/sports/matchqy1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Матч! Футбол 2 HD
+https://chostv.mobie.in/choos/sports/matchqy2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Матч! Футбол 3 HD
+https://chostv.mobie.in/choos/sports/matchqy3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Football 1 Ukraine
+https://chostv.mobie.in/choos/sports/qyt1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Football 2 Ukraine
+https://chostv.mobie.in/choos/sports/qyt2.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",PPTV 1
 http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/playist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",PPTV 2
@@ -140,16 +150,6 @@ https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
 https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",TRUE NBA
 https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Матч! Футбол 1 HD
-https://chostv.mobie.in/choos/sports/matchqy1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Матч! Футбол 2 HD
-https://chostv.mobie.in/choos/sports/matchqy2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Матч! Футбол 3 HD
-https://chostv.mobie.in/choos/sports/matchqy3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Football 1 Ukraine
-https://chostv.mobie.in/choos/sports/qyt1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Football 2 Ukraine
-https://chostv.mobie.in/choos/sports/qyt2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",ASTRO SUPPERSPORT 1
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",ASTRO SUPPERSPORT 2
@@ -164,8 +164,7 @@ http://d-e-02.cdn.rdsnet.ro/DVR/digisport2hdb.stream/playlit.m3u8
 http://d-e-02.cdn.rdsnet.ro/DVR/digisport3hdb.stream/playlit.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Digi Sport 4
 http://d-e-02.cdn.rdsnet.ro/DVR/digisport4hdb.stream/playlit.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",tes
-https://reels2watch.com/hls/s2.m3u8
+
 
 
 
@@ -177,8 +176,7 @@ http://194.32.79.172/beins5/tracks-v1a1/mono.m3u8
 http://194.32.79.172/bein6/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 7" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 7 
 http://194.32.79.172/bein7/tracks-v1a1/mono.m3u8 
-#EXTINF:-1 group-title="beIN SPORTS FHD" tvg-logo="https://imgstatic.vtvcab.vn/logos/BONGDA_HD_M.png",tes
-https://ugii0tvebpliv.vcdn.cloud:443/may7/may7@456.m3u8
+
 
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",B news
@@ -207,34 +205,7 @@ http://piwale.com:8080/BEIN2021/11223344/40210
 http://piwale.com:8080/BEIN2021/11223344/40209
 #EXTINF:0 tvg-id="B1TV.ro" group-title="Channels",B1
 http://piwale.com:8080/BEIN2021/11223344/40208
-#EXTINF:0 tvg-id="ext" group-title="Channels",skysports 2
-http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/540
-#EXTINF:0 tvg-id="ext" group-title="Channels",skysports 2
-http://185.39.11.27:25461/C2yPaVWa7K/QDTnsaSUJ1/540?token=SUBdUkMKGgkXCVMABVJVBl0FBgRZBVMDUQBVBlFVWA4KUAFQBlMLA1ETSRdDRBBUBF5pDFwRWAQBVU8SQEcERW0LUREKQAwHDAZQBhIcQEUMXlNHAgJUAQxQWwgBBFQbEBJcVxJYGgAMCVUXHBIHSRFWRAtZXz1VUBMKU1AWW1lHDlkfEg1WbFFUCFReVEALRwMUSRpaEUEXXw1FWVhNFVALQUFRFl0RDxNRBwUDQB1HUFkQVkcQSBdfQXlxFk0VVxpBVl4RUVxbE18XRENAHUdaRTpKVhFFRwACXVBGQw0QUhcfEg9ZS2pSClteVQFFDFxYFhoJQAAXSUFdWloIQ10QakNZBhoJFwJUAgASHw==
-#EXTINF:0 tvg-id="ext" group-title="Channels",SK1
-http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/7735
-#EXTINF:0 tvg-id="ext" group-title="Channels",SK1
-http://62.182.80.214:25461/C2yPaVWa7K/QDTnsaSUJ1/7735?token=SUBdUkMKGgkXUFZXVQMGAwAGAl1eUlYIDQBWUQ0CVFEGAQ1VAAcBBQMTSRdDRBBUBF5pDFwRWAYCVlYcF0ESUkA9XFcSWBoHAQhSAAMSThMRWlsAGglTBwVcVggNAFcOHkBFWlRAAhEBAFQMEhxAVB1HUxdWUg5uUQAVWVZRQw1cF1lfHEBXXWpVAFhRXgYTXxEGRxQRC0JFR1leQFgNGxAAXEdCA0xWFwtHBwgCUhNJEVUKTV0WQ0xHWRJ8cEMbEAdNR1UMS1paX0cPEkQRE0kRXxZnQQdCQRcGUVhRExUIQAURHEBVUk1uBlpeXgdSEVpZC0sRWBMER08SWFsPXkYNR2xAC1wRDxNRBAACQEw=
-#EXTINF:0 tvg-id="ext" group-title="Channels",SK2
-http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/7734
-#EXTINF:0 tvg-id="ext" group-title="Channels",SK2
-http://62.182.80.214:25461/C2yPaVWa7K/QDTnsaSUJ1/7734?token=SUBdUkMKGgkXCVJUA1MBU10LVAcOAQEHA1VSAlAGUANWAVBWUgNdUVYTSRdDRBBUBF5pDFwRWAYCVlccF0ESUkA9XFcSWBoHAQhSAAMSThMRWlsAGglTBwVcVggMB1UCHkBFWlRAAhEECVMBBhJOEwBLQgBKXQNdagEGRlxXBBUIDEBfXE4aXFtuAVBdUQxVRwkUVRofQFhGFUEKW0ENWx5AV1pEEFlHUBNfFwIIUAVHHxQGV0YMRUccQQoXfSUVHkBQS0QHVkBcXgsXChIWQkcfFAxLbBBURhERVVRZBEUQWBcDEk4aXlRJOlZfXgxUBkdfClZAQAsXVEEcF1kOWVsWWkFvElFXFwtHBAgFVAdHTg==
-#EXTINF:0 tvg-id="ext" group-title="Channels",SK3
-http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/7733
-#EXTINF:0 tvg-id="ext" group-title="Channels",SK3
-http://62.182.80.214:25461/C2yPaVWa7K/QDTnsaSUJ1/7733?token=SUBdUkMKGgkXUFZRBFMBVQRXUAMOVldQUF0GAAIGWQIABFYEB1MLAwMTSRdDRBBUBF5pDFwRWAYCVlAcF0ESUkA9XFcSWBoHAQhSAAMSThMRWlsAGglTBwVcVggMAFUCHkBFWlRAAhEGAFQGCBJOEwBLQgBKXQNdagEGRlxXBBUIDEBfXE4aXFtuAVBdUQxVRwkUVRofQFhGFUEKW0ENWx5AV1pEEFlHUBNfFwQJVABHHxQGV0YMRUccQQoXfSUVHkBQS0QHVkBcXgsXChIWQkcfFAxLbBBURhERVVRZBEUQWBcDEk4aXlRJOlZfXgxUBkdfClZAQAsXVEEcF1kOWVsWWkFvElFXFwtHBgEBUQBHTg==
-#EXTINF:0 tvg-id="ext" group-title="Channels",SK4
-http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/23610
-#EXTINF:0 tvg-id="ext" group-title="Channels",SK4
-http://62.182.80.214:25461/C2yPaVWa7K/QDTnsaSUJ1/23610?token=SUBdUkMKGgkXBFYAUVRaCF1VAFAAVwQCBgBTBQAMWVIHBAUFUVEMBwETSRdDRBBUBF5pDFwRWAMGU1IAGRYURFcQalpUQAIRAQVcAgUDQB1HR18IXRFYAANVWgUNDVUPA04XQ1kGGgkXA1UCBAFAHUdWThFdQQxQWToHVUNdAlIQWFtGXA4UEVpfOlFVXQNfAREMRwgRThNcFhMSD1oUW15OF1FZFkpSQVRHDxICUgNRERpHW1wXX0EXGhIPFihzEE4XVkgWXV1GWApbEgpARRYRGkdRQD1DUBYXQlBVDFJAQA8RAEAUEVhQHWpTXwxfAFBCDFddERMPR1ISGRYMWFwLQVxCPUhaURNfFwIAVQBSEUs=
-#EXTINF:0 tvg-id="ext" group-title="Channels",SK5
-http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/23609
-#EXTINF:0 tvg-id="ext" group-title="Channels",SK5
-http://62.182.80.214:25461/C2yPaVWa7K/QDTnsaSUJ1/23609?token=SUBdUkMKGgkXUFwACVQAAgYAUwABBAdVAwBQCVNSVFJTWwAFCVIMBQwTSRdDRBBUBF5pDFwRWAMGU1MJGRYURFcQalpUQAIRAQVcAgUDQB1HR18IXRFYAANVWgUNDVQGAU4XQ1kGGgkXAFcDBAJAHUdWThFdQQxQWToHVUNdAlIQWFtGXA4UEVpfOlFVXQNfAREMRwgRThNcFhMSD1oUW15OF1FZFkpSQVRHDxICUgBdERpHW1wXX0EXGhIPFihzEE4XVkgWXV1GWApbEgpARRYRGkdRQD1DUBYXQlBVDFJAQA8RAEAUEVhQHWpTXwxfAFBCDFddERMPR1ISGRYMWFwLQVxCPUhaURNfFwECUQZREUs=
-#EXTINF:0 tvg-id="ext" group-title="Channels",SK6
-http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/23608
-#EXTINF:0 tvg-id="ext" group-title="Channels",SK6
-http://62.182.80.214:25461/C2yPaVWa7K/QDTnsaSUJ1/23608?token=SUBdUkMKGgkXBFMEBAQDUlJSDwFdUQAHVAdTUQUHBAJQBgEGCQEOBwITSRdDRBBUBF5pDFwRWAMGU1MIGRYURFcQalpUQAIRAQVcAgUDQB1HR18IXRFYAANVWgUNDVQDC04XQ1kGGgkXBFIECRJOEwBLQgBKXQNdagEGRlxXBBUIDEBfXE4aXFtuAVBdUQxVRwkUVRofQFhGFUEKW0ENWx5AV1pEEFlHUBNfFwIAUwZHHxQGV0YMRUccQQoXfSUVHkBQS0QHVkBcXgsXChIWQkcfFAxLbBBURhERVVRZBEUQWBcDEk4aXlRJOlZfXgxUBkdfClZAQAsXVEEcF1kOWVsWWkFvElFXFwtHBAAAVxMY
+
 
 
 
@@ -302,16 +273,12 @@ http://92.43.140.204:80/s81/index.m3u8
 http://92.43.140.200/s81/04.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",SETANTA SPORTS 2
 http://92.43.140.200/s82/04.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",PPTV HD (MOTO GP)
-http://183.182.100.184/live/pptvthai/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Viasat Sport East
 https://persik.tv/stream/3602/287583/10249.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Bek Sports West
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Nile Sport
 http://178.132.3.162:88/Nile_Sport/video.m3u8?token=test
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",GTV LIVE HD 
-http://103.132.180.245:8080/2/index.m3u8?token=f249ee099ac31671f393eab1dd60d1d86ef3c31e-4af8c0a178661db3b32df38ac2f1a11a-1600616751-1600605951&remote=103.66.177.168
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",espn 2
 https://gma2.blab.email/espn2.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",espnu
