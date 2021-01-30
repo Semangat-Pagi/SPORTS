@@ -37,11 +37,11 @@ http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/playist.m3u8
 https://www.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",PPTV 3
 http://160.119.77.116:8081/iptv/hd-pptv.stream/playlist.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",EPL 1
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",EPL 1 LIVE
 https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com:443/out/v1/86bff4b41be142eba9b67aaae85e041d/index3_2.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",EPL 2
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",EPL 2 LIVE
 https://pull.tonhorn.cn:443/football/live29_hd.flv?auth_key=1612882373-FV683FG8fw-0-7d16d24e1e2b92f7e86462a8b1619253
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",EPL 3
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",EPL 3 LIVE
 https://pull.tonhorn.cn:443/football/live31_hd.flv?auth_key=1612882332-24h40l4jSL-0-666747dec6c848b2ccba348fae86947e
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",LALIGA LIVE 1
 https://liveplay.zrsqlm.com:443/hongqiutv/stream-c2015f4e99ee403ab74a8329744d2640.m3u8?_=1611252140180
