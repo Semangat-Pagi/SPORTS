@@ -166,9 +166,19 @@ http://d-e-02.cdn.rdsnet.ro/DVR/digisport3hdb.stream/playlit.m3u8
 http://d-e-02.cdn.rdsnet.ro/DVR/digisport4hdb.stream/playlit.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSports-STABIL",BEIN 1
+=======================BeinSportsSTABIL=================================================================
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 1
 https://performance.switchboard.live:443/hb7he-pjzgp-gdzgc-00000-28506/playlist.m3u8
- 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 2
+https://performance.switchboard.live:443/utkh9-6uqn6-xp3z7-00000-28639/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 4
+https://performance.switchboard.live:443/7wpx4-6yd74-2b9ud-00000-28645/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 6
+http://195.154.113.81:8081/yacinetv/BeinHD6/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDIxIDEyOjQyOjA5IFBNJmhhc2hfdmFsdWU9VjFyeDBuMXR0RGpOQ1kyN1NZUmdUdz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 7
+http://195.154.113.81:8081/yacinetv/BeinLow7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDIxIDEyOjM5OjMyIFBNJmhhc2hfdmFsdWU9dXF1YksrZGRsdk1LWDZReFZSdk4vUT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 9
+http://195.154.113.81:8081/yacinetv/BeinLow9/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDIxIDEyOjQ1OjA4IFBNJmhhc2hfdmFsdWU9RnNEZm56T0phRENVMkxuaXlQUmVGQT09JnZhbGlkbWludXRlcz0yMA==
 
 
 
