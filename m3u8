@@ -166,8 +166,8 @@ http://d-e-02.cdn.rdsnet.ro/DVR/digisport3hdb.stream/playlit.m3u8
 http://d-e-02.cdn.rdsnet.ro/DVR/digisport4hdb.stream/playlit.m3u8
 
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="beIN SPORTS FHD",BEIN 1 760P
+https://performance.switchboard.live:443/hb7he-pjzgp-gdzgc-00000-28506/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 3" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 3 
 http://194.32.79.172/beins3/tracks-v1a1/mono.m3u8  
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 5" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 5 
