@@ -173,22 +173,6 @@ http://d-e-02.cdn.rdsnet.ro/DVR/digisport4hdb.stream/playlit.m3u8
 
 
 =======================BeinSportsSTABIL=================================================================
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 1 360P
-http://62.210.100.8:8081/yacinetv/BeinSD1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 2 360P
-http://62.210.100.8:8081/yacinetv/BeinSD2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 3 360P
-http://62.210.100.8:8081/yacinetv/BeinSD3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 4 360P
-http://62.210.100.8:8081/yacinetv/BeinSD4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 5 360P
-http://62.210.100.8:8081/yacinetv/BeinSD5/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 6 360P
-http://62.210.100.8:8081/yacinetv/BeinSD6/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 7 360P
-http://195.154.113.81:8081/yacinetv/BeinLow7/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 9 360P
-http://195.154.113.81:8081/yacinetv/BeinLow9/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 1 720P
 https://performance.switchboard.live:443/hb7he-pjzgp-gdzgc-00000-28506/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 2 720P
@@ -206,6 +190,23 @@ http://195.154.113.81:8081/yacinetv/BeinHD6/playlist.m3u8
 http://195.154.113.81:8081/yacinetv/BeinLow7/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 9 720P
 http://195.154.113.81:8081/yacinetv/BeinLow9/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 1 360P
+http://62.210.100.8:8081/yacinetv/BeinSD1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 2 360P
+http://62.210.100.8:8081/yacinetv/BeinSD2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 3 360P
+http://62.210.100.8:8081/yacinetv/BeinSD3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 4 360P
+http://62.210.100.8:8081/yacinetv/BeinSD4/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 5 360P
+http://62.210.100.8:8081/yacinetv/BeinSD5/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 6 360P
+http://62.210.100.8:8081/yacinetv/BeinSD6/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 7 360P
+http://195.154.113.81:8081/yacinetv/BeinLow7/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 9 360P
+http://195.154.113.81:8081/yacinetv/BeinLow9/playlist.m3u8
+
 
 
 
