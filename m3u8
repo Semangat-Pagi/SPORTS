@@ -173,17 +173,33 @@ http://d-e-02.cdn.rdsnet.ro/DVR/digisport4hdb.stream/playlit.m3u8
 
 
 =======================BeinSportsSTABIL=================================================================
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 1 360P
+http://62.210.100.8:8081/yacinetv/BeinSD1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMS8yMDIxIDg6MDc6NDUgQU0maGFzaF92YWx1ZT1HMVpqaFZsZUEyQUVDRDdsdVV4cUpRPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 2 360P
+http://62.210.100.8:8081/yacinetv/BeinSD2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMS8yMDIxIDg6MDY6MDUgQU0maGFzaF92YWx1ZT1IZEFNZDlEa2ZBc2x1OEsreFh4bWNnPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 3 360P
+http://62.210.100.8:8081/yacinetv/BeinSD3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMS8yMDIxIDg6MDg6MjUgQU0maGFzaF92YWx1ZT1ZZ3RzNnFKU2tUZHBVdlpQY0JHTWt3PT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 4 360P
+http://62.210.100.8:8081/yacinetv/BeinSD4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMS8yMDIxIDg6MDk6MTggQU0maGFzaF92YWx1ZT0vdVlUV0xSMjFsbmlUYm10cXdGMHlBPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 5 360P
+http://62.210.100.8:8081/yacinetv/BeinSD5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMS8yMDIxIDg6MDk6NTQgQU0maGFzaF92YWx1ZT10T1dJL3lWQWZHZWdnNHcxd1o3RVRnPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 6 360P
+http://62.210.100.8:8081/yacinetv/BeinSD6/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMS8yMDIxIDg6MTA6MzUgQU0maGFzaF92YWx1ZT1JVTJQdVp1UzA3S0Jyb1VNVkYzYzNBPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 7 360P
+http://195.154.113.81:8081/yacinetv/BeinLow7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMS8yMDIxIDg6MTE6MTggQU0maGFzaF92YWx1ZT1mNVFSeHRIL0tjTXVGNHY3cUVhWVhBPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 9 360P
+http://195.154.113.81:8081/yacinetv/BeinLow9/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMS8yMDIxIDg6MTI6MTIgQU0maGFzaF92YWx1ZT1ZQkVleUQvZVJ4ZEl3TjBKdnM1UmtBPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 1 720P
 https://performance.switchboard.live:443/hb7he-pjzgp-gdzgc-00000-28506/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 2 720P
 https://performance.switchboard.live:443/utkh9-6uqn6-xp3z7-00000-28639/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 4 720P
 https://performance.switchboard.live:443/7wpx4-6yd74-2b9ud-00000-28645/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 6 720P
 http://195.154.113.81:8081/yacinetv/BeinHD6/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDIxIDEyOjQyOjA5IFBNJmhhc2hfdmFsdWU9VjFyeDBuMXR0RGpOQ1kyN1NZUmdUdz09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 7 720P
 http://195.154.113.81:8081/yacinetv/BeinLow7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDIxIDEyOjM5OjMyIFBNJmhhc2hfdmFsdWU9dXF1YksrZGRsdk1LWDZReFZSdk4vUT09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 9 720P
 http://195.154.113.81:8081/yacinetv/BeinLow9/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDIxIDEyOjQ1OjA4IFBNJmhhc2hfdmFsdWU9RnNEZm56T0phRENVMkxuaXlQUmVGQT09JnZhbGlkbWludXRlcz0yMA==
 
 
