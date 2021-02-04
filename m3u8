@@ -5,12 +5,9 @@ https://www.livedoomovie.com/02_PremierHD1_480p/chunklist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",PREMIER2 SD 640P
 https://www.livedoomovie.com:443/02_PremierHD2_480p/chunklist.m3u8
 https://www.livedoomovie.com/02_PremierHD2_480p/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",Star Sport Selec 1
-http://87.117.234.107:1935/live/StarSportsSelect1FHD/chunklist_w1636648866.m3u8
+#EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",BEINSPORT 1
+https://prod-fastly-us-west-2.video.pscp.tv:443/Transcoding/v1/hls/iQj9XPjMnsMa-YP9BqqVaJaql2LypVni71B_YsnnreZERbJ1usolwPeVB3PIBeny_hmJShrKOo5d-ZJ6e-WOXw/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_highlatency.m3u8?type=live
 https://m3u-editor.com/live/serve/b9cbf3d0-5e7a-11eb-b88b-15a8448209fa/196548973.m3u8
-#EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",Star Sport Selec 2
-http://87.117.234.107:1935/live/StarSportsSelect2FHD/chunklist_w383111834.m3u8
-https://m3u-editor.com/live/serve/b9cbf3d0-5e7a-11eb-b88b-15a8448209fa/196548974.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png" group-title="WORLD SPORTS",ZML EPL LIVE1 1960P
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/bf89e1f7399c48c599edc6fe5294db4b/index1_3.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png" group-title="WORLD SPORTS",ZML EPL LIVE1 1280P
@@ -101,31 +98,6 @@ http://185.132.177.110:8080/COSMOTESport1HD/video.m3u8
 http://185.132.177.110:8080/COSMOTESport2HD/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_3_hd.png" group-title="WORLD SPORTS",EPL COSMOTE 3
 http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8
-#EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",VIP BeIN Sports 1
-http://sky4.ddns.net:8000/zaltv/zaltv/7243
-#EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",VIP BeIN Sports 2
-http://sky4.ddns.net:8000/zaltv/zaltv/7244
-#EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",VIP BeIN Sports 3
-http://sky4.ddns.net:8000/zaltv/zaltv/7245
-#EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",VIP BeIN Sports 4
-http://sky4.ddns.net:8000/zaltv/zaltv/7246
-#EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",VIP BeIN Sports 5
-http://sky4.ddns.net:8000/zaltv/zaltv/7247
-#EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",VIP BeIN Sports 6
-http://sky4.ddns.net:8000/zaltv/zaltv/7248
-#EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",VIP BeIN Sports 7
-http://sky4.ddns.net:8000/zaltv/zaltv/7249
-#EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",VIP BeIN Sports 8
-http://sky4.ddns.net:8000/zaltv/zaltv/7250
-#EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",VIP BeIN Sports 9
-http://sky4.ddns.net:8000/zaltv/zaltv/7251
-#EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",VIP BeIN Sports 10
-http://sky4.ddns.net:8000/zaltv/zaltv/7252
-#EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",VIP BeIN Sports 11
-http://sky4.ddns.net:8000/zaltv/zaltv/7253
-#EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",VIP BeIN Sports 12
-http://sky4.ddns.net:8000/zaltv/zaltv/7254
-
 #EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",RMC SPORT 1
 http://51.15.12.219:8080/kennythetiger244/n6wfNmBlQA/6062?token=GhoNVBVaEA4WUgANVgNSXFgBDgUHAFdRVw5bU1cMB1ZVAVAFUwZQAg1BHBpHRhBdAA9oDQdACQQDDlAdE0FHARNnDFFECBAABVQBGhgQFlEMBxVeUlQDCwMBUgYJBxhGEVEBF1wQAAwEUQcaGBAHQBUHRQoCDmxWVk4LUlQWDgoUVAkZRF1ca1AGXVlaVkACQ1MVSEELQEIRAgxEXVgYRgNREUcHRlcWDkEBAA0CQBRDAVgRDRZBSxECQGRiFhhGBEARUAhBW1taQQoaQEFAFEMLRDsRB0BGQV0DXFRGFl5DCUcZRF9TTGsAX1ZaVwFMCA1ZF0FYEQMDCFITHRZZCw9REVoUbUJdUEEKGgYFVw1ZQEo
 #EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",RMC SPORT 2
@@ -170,44 +142,6 @@ http://d-e-02.cdn.rdsnet.ro/DVR/digisport2hdb.stream/playlit.m3u8
 http://d-e-02.cdn.rdsnet.ro/DVR/digisport3hdb.stream/playlit.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Digi Sport 4
 http://d-e-02.cdn.rdsnet.ro/DVR/digisport4hdb.stream/playlit.m3u8
-
-
-=======================BeinSportsSTABIL=================================================================
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 1 720P
-https://performance.switchboard.live:443/hb7he-pjzgp-gdzgc-00000-28506/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 2 720P
-https://performance.switchboard.live:443/utkh9-6uqn6-xp3z7-00000-28639/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 3 720P
-http://89.163.220.104:8081/yacinetv/BeinHD3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 4 720P
-http://89.163.220.104:8081/yacinetv/BeinHD4/playlist.m3u8
-https://performance.switchboard.live:443/7wpx4-6yd74-2b9ud-00000-28645/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 5 720P
-http://195.154.113.81:8081/yacinetv/BeinHD5/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 6 720P
-http://195.154.113.81:8081/yacinetv/BeinHD6/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 7 720P
-http://195.154.113.81:8081/yacinetv/BeinLow7/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 9 720P
-http://195.154.113.81:8081/yacinetv/BeinLow9/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 1 360P
-http://62.210.100.8:8081/yacinetv/BeinSD1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 2 360P
-http://62.210.100.8:8081/yacinetv/BeinSD2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 3 360P
-http://62.210.100.8:8081/yacinetv/BeinSD3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 4 360P
-http://62.210.100.8:8081/yacinetv/BeinSD4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 5 360P
-http://62.210.100.8:8081/yacinetv/BeinSD5/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 6 360P
-http://62.210.100.8:8081/yacinetv/BeinSD6/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 7 360P
-http://195.154.113.81:8081/yacinetv/BeinLow7/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="BeinSportsSTABIL",BEIN 9 360P
-http://195.154.113.81:8081/yacinetv/BeinLow9/playlist.m3u8
-
-
 
 
 
