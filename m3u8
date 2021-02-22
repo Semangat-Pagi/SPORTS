@@ -8,10 +8,7 @@ https://www.livedoomovie.com/02_PremierHD2_480p/chunklist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",BeinSport 1
 http://yacineetiivi.gq:80/live/1613952360/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",BEINSPORT 2
-https://prod-ec-eu-central-1.video.pscp.tv:443/Transcoding/v1/hls/o49U8LfZrU5xuzEW1jS0VC9uOoxBDRzw6S-j2rRYY6HV0bMdGDqkHyldaK_szqVRRSym7Vohv5x-pdepqT1x-w/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
-https://prod-fastly-us-west-2.video.pscp.tv:443/Transcoding/v1/hls/4tY613Cg2oS6VEV2mAa1FtzvolGGNPs3fpDTnHzNhFgriZ4pRn8IUHiF-JRAR3xj9p6v9VoUHRmH16tZF2ztRA/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
-https://prod-fastly-us-west-2.video.pscp.tv:443/Transcoding/v1/hls/iQj9XPjMnsMa-YP9BqqVaJaql2LypVni71B_YsnnreZERbJ1usolwPeVB3PIBeny_hmJShrKOo5d-ZJ6e-WOXw/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_highlatency.m3u8?type=live
-https://m3u-editor.com/live/serve/b9cbf3d0-5e7a-11eb-b88b-15a8448209fa/196548973.m3u8
+http://yacineetiivi.gq:80/live/21990/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WORLD SPORTS",SPORTS TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/bf89e1f7399c48c599edc6fe5294db4b/index1_3.m3u8
