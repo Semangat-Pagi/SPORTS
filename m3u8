@@ -4,20 +4,19 @@ https://www.livedoomovie.com:443/02_PremierHD1_480p/chunklist.m3u8
 https://www.livedoomovie.com/02_PremierHD1_480p/chunklist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",PREMIER2 SD 640P
 https://www.livedoomovie.com:443/02_PremierHD2_480p/chunklist.m3u8
-https://www.livedoomovie.com/02_PremierHD2_480p/chunklist.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",BeinSport 1
-http://yacineetiivi.gq:80/live/1613952360/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",BEINSPORT 2
-http://yacineetiivi.gq:80/live/21990/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WORLD SPORTS",SPORTS TV
-http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/bf89e1f7399c48c599edc6fe5294db4b/index1_3.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png" group-title="WORLD SPORTS",ZML EPL LIVE1 1280P
-https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/bf89e1f7399c48c599edc6fe5294db4b/index1_2.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",EPL PTV SPORTS 1
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",EPL PTV SPORTS 2
 http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",PPTV 1
+http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/playist.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",PPTV 2
+https://www.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",PPTV 3
+http://160.119.77.116:8081/iptv/hd-pptv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="WORLD SPORTS",SPORTS TV
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/bf89e1f7399c48c599edc6fe5294db4b/index1_3.m3u8
 #EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="http://runnel.ir/ax/logo/sky-sports-premier-league.jpg",PREMIER​ SPORTS​
 http://160.119.77.116:8081/iptv/uk-premiersports.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Матч! Футбол 1 HD
@@ -30,12 +29,6 @@ https://chostv.mobie.in/choos/sports/matchqy3.m3u8
 https://chostv.mobie.in/choos/sports/qyt1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Football 2 Ukraine
 https://chostv.mobie.in/choos/sports/qyt2.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",PPTV 1
-http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/playist.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",PPTV 2
-https://www.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",PPTV 3
-http://160.119.77.116:8081/iptv/hd-pptv.stream/playlist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",EPL 1 LIVE
 https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com:443/out/v1/86bff4b41be142eba9b67aaae85e041d/index3_2.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",EPL 2 LIVE
@@ -84,12 +77,6 @@ https://95-213-224-182.livesports24.online:443/mfootball2rus.m3u8
 https://46-166-142-27.livesports24.online/rumatchf3.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",Vtvcab16-bongdaTv
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab16_SD.smil/chunklist_w59021678_b2692000.m3u8?uid=y244c4a4s29474z584x506&t_end=o4i5u5h514441394v22474s2p233y2&mytokenstarttime=1600085231&mytokenhash=B3Eo4jgzrqb6qalJ-f53LZcLvs3HT7pC2Rzdyvu3PaM%3D
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",SCTV17-ssport
-https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV17_HD.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",SCTV22-Sports
-https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV22_HD.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",BTV5
-https://vtsstr3.tv24.vn/elive1/_definst_/smil:btv5_HD.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bt sport1
 https://www.livedoomovie.com:443/02_BTSPORTHD_1_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
