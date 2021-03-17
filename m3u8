@@ -76,12 +76,10 @@ https://chostv.mobie.in/choos/sports/matchqy3.m3u8
 https://chostv.mobie.in/choos/sports/qyt1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Football 2 Ukraine
 https://chostv.mobie.in/choos/sports/qyt2.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",EPL 1 LIVE
-https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com:443/out/v1/21b071ad1f864597bbc3db35075a9341/index1_1.m3u8
-https://hdl.weixiubaow.com:443/live/46267.flv?k=e575c3211f89e999cce08cd1bf575e51&t=1616334949
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",EPL 2 LIVE
-https://hls.weixiubaow.com:443/live/30350/playlist.m3u8?k=2494670996ec5428c582fbc22ca4f827&t=1616420293
-https://hdl.weixiubaow.com:443/live/64012.flv?k=60881132fa179b4f547c5753a6cf859d&t=1616333118
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",FOOTBALL LIVE 1
+https://d35mlxswvcezs2.cloudfront.net:443/out/v1/2adc48719db9484f86855bb9952a4ef8/index.m3u8?Urj7svfj=&Rkj2f3jk=&Czj1i9k6=
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",FOOTBALL LIVE 2
+https://d2ff34xrncjkdz.cloudfront.net:443/out/v1/2bcc2a28ecab4aeca5c18b64a4af0f17/index.m3u8?Urj7svfj=&Rkj2f3jk=&Czj1i9k6=
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",EPL 3 LIVE
 https://hdl.weixiubaow.com:443/live/20185.flv?k=498b918af3cac9ac23355d2d8857d910&t=1616335369
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",Laliga mytgon 1
