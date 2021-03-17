@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",PREMIER1 SD 640P
+http://ip2121.com:8081/4kweb/true1/chunks.m3u8
 https://www.livedoomovie.com:443/02_PremierHD1_480p/chunklist.m3u8
 https://www.livedoomovie.com/02_PremierHD1_480p/chunklist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",PREMIER2 SD 640P
