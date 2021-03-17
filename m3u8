@@ -268,8 +268,7 @@ https://www.livedoomovie.com/02_T_Sports_480p/chunklist.m3u8
 =============================================BeinSports==================================================================
 #EXTINF:-1 tvg-logo="TEST" group-title="BeinSports", Special bein sport extra
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="BeinSports",BEINSPORT EXTRA
-https://fvtv.mywire.org/playlist/bv6thk0ahh-g3zhk99v9q.m3u8
+
 
 
 
@@ -301,50 +300,28 @@ http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 =======================================================================SportsUnggulan====================================================================================================
 #EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",BAYERN MUNICH TV
 http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",MATCH 01 TV
-http://188.35.9.11:2019
-#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",MATCH CTPAHA
-http://188.35.9.5:10007/stolen/124n/parasite.install
-#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",MATCH 01 TV
-http://mfe.cliptv.az/dash/Match_Football_1_HD.ism/playlist.mpd?checkedby
-#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",MATCH 02 TV
-http://mfe.cliptv.az/dash/Match_Football_2_HD.ism/playlist.mpd?checkedby
-#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",MATCH 03 TV
-http://mfe.cliptv.az/dash/Match_Football_3_HD.ism/playlist.mpd?checkedby
+#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",Mola Free
+https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",Mytgon
 http://92.43.140.200/s41/04.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",FIGHT BOX
-http://92.43.140.200/s86/04.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",Fast box
 http://92.43.140.200/s79/04.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",GLOBAL WEEKEND
 http://92.43.140.200/s89/04.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",Mancing mania
 http://92.43.140.200/s55/04.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",CCTV 5
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",CCTV 5+
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",TVRI SPORT 
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8 
-#EXTINF:0 tvg-logo="TEST" group-title="SportsUnggulan",RTM SPORTS
-https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 #EXTINF:0 tvg-logo="TEST" group-title="SportsUnggulan", SWISS SPORTS
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1477627972_b1096000.m3u8
 #EXTINF:0 tvg-logo="TEST" group-title="SportsUnggulan",BAYERN MUNCHEN TV
 https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",REAL MADRID TV HD
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",REAL MADRID TV
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",Star Sports 1
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 #EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",Egg Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
 #EXTINF:0 tvg-logo="TEST" group-title="SportsUnggulan",TDM SPORT MACAU
 http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
-#EXTINF:0 tvg-logo="TEST"  group-title="SportsUnggulan",FOX SPORTS HD 1 USA
-http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:0 tvg-logo="TEST"  group-title="SportsUnggulan",TRUE TENIS HD
 https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="TEST"  group-title="SportsUnggulan",TRUE GOLF HD
@@ -357,14 +334,12 @@ https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a6
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",FIGHT SPORTS
 http://210.210.155.35:80/uq2663/h/h05/01.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan", NBA Tv
+#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",NBA Tv
 #https://www.doofree88.com/streaming/hd-nba_720/index.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan", FIGHT BOX
+#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",FIGHT BOX
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",ARHAT SPORT TV
 http://arhat.tv/public/360p/index.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",SBS SPORTS
-http://211.245.55.198:1024/m2u/239.192.67.130:49220
 #EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",RACING.COM
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",Dubai Racing
