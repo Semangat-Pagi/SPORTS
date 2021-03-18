@@ -5,6 +5,10 @@ https://www.livedoomovie.com:443/02_PremierHD1_480p/chunklist.m3u8
 https://www.livedoomovie.com/02_PremierHD1_480p/chunklist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",PREMIER2 SD 640P
 https://www.livedoomovie.com:443/02_PremierHD2_480p/chunklist.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",FOOTBALL LIVE 1
+https://d35mlxswvcezs2.cloudfront.net:443/out/v1/2adc48719db9484f86855bb9952a4ef8/index.m3u8?Urj7svfj=&Rkj2f3jk=&Czj1i9k6=
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",FOOTBALL LIVE 2
+https://d2ff34xrncjkdz.cloudfront.net:443/out/v1/2bcc2a28ecab4aeca5c18b64a4af0f17/index.m3u8?Urj7svfj=&Rkj2f3jk=&Czj1i9k6=
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",bein1
 https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",bein2
@@ -19,14 +23,6 @@ http://3.adnaraoun.xyz:80/live/645587700/index.m3u8
 http://1.adrawayoun.xyz:80/live/6151278887/index.m3u8
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1451.m3u8
 http://topiptv.net:5890/abcd/123456/70061
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",TR:beIN SPORTS 1 
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1453.m3u8 
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",TR:beIN SPORTS 2 
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1454.m3u8 
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",TR:beIN SPORTS 3 
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1455.m3u8 
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",TR:beIN SPORTS 4 
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1456.m3u8
 #EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/sd-skynetsportshd.png",SKYNET SPORTS HD
 https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
 #EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports1.png",SKYNET SPORTS 1
@@ -76,12 +72,6 @@ https://chostv.mobie.in/choos/sports/matchqy3.m3u8
 https://chostv.mobie.in/choos/sports/qyt1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Football 2 Ukraine
 https://chostv.mobie.in/choos/sports/qyt2.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",FOOTBALL LIVE 1
-https://d35mlxswvcezs2.cloudfront.net:443/out/v1/2adc48719db9484f86855bb9952a4ef8/index.m3u8?Urj7svfj=&Rkj2f3jk=&Czj1i9k6=
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",FOOTBALL LIVE 2
-https://d2ff34xrncjkdz.cloudfront.net:443/out/v1/2bcc2a28ecab4aeca5c18b64a4af0f17/index.m3u8?Urj7svfj=&Rkj2f3jk=&Czj1i9k6=
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",EPL 3 LIVE
-https://hdl.weixiubaow.com:443/live/20185.flv?k=498b918af3cac9ac23355d2d8857d910&t=1616335369
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",Laliga mytgon 1
 https://185-107-80-245.livesports24.online:443/ntvmatchfoot1.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",Serie A mytgon 2
