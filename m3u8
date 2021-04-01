@@ -19,14 +19,16 @@ https://prod-fastly-ap-northeast-1.video.periscope.tv:443/Transcoding/v1/hls/w40
 https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",bein2
 https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",bein1**
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",bein1*
 http://3.amaniyouhra.xyz:80/live/918454578/index.m3u8?t=SBM8Jw-s4thS_J2kZeNMNQ&e=1617301202
 http://1.adrawayoun.xyz:80/live/6161655/index.m3u8
 http://3.adnaraoun.xyz:80/live/918454578/index.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",bein2*
+http://3.amaniyouhra.xyz:80/live/69854211/index.m3u8?t=P8a1byefO4gshizwJRiIZg&e=1617301383
 http://1.adrawayoun.xyz:80/live/616194987/index.m3u8
 http://3.adnaraoun.xyz:80/live/645587700/index.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",bein3*
+http://3.amaniyouhra.xyz:80/live/645587700/index.m3u8?t=Yoy7HOlos8SH5DZJYkUseA&e=1617301459
 http://1.adrawayoun.xyz:80/live/6151278887/index.m3u8
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1451.m3u8
 http://topiptv.net:5890/abcd/123456/70061
