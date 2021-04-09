@@ -9,12 +9,12 @@ https://www.livedoomovie.com:443/02_PremierHD2_480p/chunklist.m3u8
 https://d35mlxswvcezs2.cloudfront.net:443/out/v1/2adc48719db9484f86855bb9952a4ef8/index.m3u8?Urj7svfj=&Rkj2f3jk=&Czj1i9k6=
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",FOOTBALL LIVE 2
 https://d2ff34xrncjkdz.cloudfront.net:443/out/v1/2bcc2a28ecab4aeca5c18b64a4af0f17/index.m3u8?Urj7svfj=&Rkj2f3jk=&Czj1i9k6=
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",Star Sport 1
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",Eurosport 1 
+https://www.livedoomovies.com:443/02_EUROHD1_720p/chunklist.m3u8
 http://185.59.223.95:80/STARSP_1HD/tracks-v1a1/mono.m3u8?Urj7svfj=&Rkj2f3jk=&Czj1i9k6=
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",Nika Tv
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",Eurosport 2
+https://www.livedoomovies.com:443/02_EUROHD2_720p/chunklist.m3u8
 https://prod-fastly-us-west-2.video.pscp.tv:443/Transcoding/v1/hls/RRtT47DMS8r5Cez1nQurE5aeo6NQE5SzZZuRYZExUVWeoskt_B8_flD-08DtkLjlY8ClynByczs_mOCPGvpwgw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live@live_cricketmatch&Urj7svfj=&Rkj2f3jk=&Czj1i9k6=
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",astro Cricket 
-https://prod-fastly-ap-northeast-1.video.periscope.tv:443/Transcoding/v1/hls/w40NEo-McbwJLEZhGJJ0Isu03ycemNUK5BItECa7yT0KNy7NLRLlN3iWuBLNbMaLGpHp_jMG79z271qpjjB1sA/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/master_dynamic_highlatency.m3u8?type=live&Urj7svfj=&Rkj2f3jk=&Czj1i9k6=
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",bein1
 https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",bein2
