@@ -14,7 +14,14 @@ https://www.livedoomovies.com:443/02_EUROHD1_720p/chunklist.m3u8
 http://185.59.223.95:80/STARSP_1HD/tracks-v1a1/mono.m3u8?Urj7svfj=&Rkj2f3jk=&Czj1i9k6=
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",Eurosport 2
 https://www.livedoomovies.com:443/02_EUROHD2_720p/chunklist.m3u8
-https://prod-fastly-us-west-2.video.pscp.tv:443/Transcoding/v1/hls/RRtT47DMS8r5Cez1nQurE5aeo6NQE5SzZZuRYZExUVWeoskt_B8_flD-08DtkLjlY8ClynByczs_mOCPGvpwgw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live@live_cricketmatch&Urj7svfj=&Rkj2f3jk=&Czj1i9k6=
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",ASSP 1
+http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",ASSP 2
+http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",ASSP 3
+http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",ASSP 4
+http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",bein1
 https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",bein2
