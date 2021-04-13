@@ -5,6 +5,8 @@ https://www.livedoomovie.com:443/02_PremierHD1_480p/chunklist.m3u8
 https://www.livedoomovie.com/02_PremierHD1_480p/chunklist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",PREMIER2 SD 640P
 https://www.livedoomovie.com:443/02_PremierHD2_480p/chunklist.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",STAR SPORT 1
+https://ipl-live.s3.ap-south-1.amazonaws.com/pkcast123.me_1/index2.m3u8?Urj7svfj=&Rkj2f3jk=&Czj1i9k6=
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",FOOTBALL LIVE 1
 https://d35mlxswvcezs2.cloudfront.net:443/out/v1/2adc48719db9484f86855bb9952a4ef8/index.m3u8?Urj7svfj=&Rkj2f3jk=&Czj1i9k6=
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",FOOTBALL LIVE 2
