@@ -84,8 +84,6 @@ http://160.119.77.116:8081/iptv/hd-pptv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WORLD SPORTS",SPORTS TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/bf89e1f7399c48c599edc6fe5294db4b/index1_3.m3u8
-#EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="http://runnel.ir/ax/logo/sky-sports-premier-league.jpg",PREMIER​ SPORTS​
-http://160.119.77.116:8081/iptv/uk-premiersports.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Матч! Футбол 1 HD
 https://chostv.mobie.in/choos/sports/matchqy1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Матч! Футбол 2 HD
@@ -102,8 +100,6 @@ https://185-107-80-245.livesports24.online:443/ntvmatchfoot1.m3u8
 https://95-213-224-182.livesports24.online:443/mfootball2rus.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",Serie A mytgon 3
 https://46-166-142-27.livesports24.online/rumatchf3.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",Vtvcab16-bongdaTv
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab16_SD.smil/chunklist_w59021678_b2692000.m3u8?uid=y244c4a4s29474z584x506&t_end=o4i5u5h514441394v22474s2p233y2&mytokenstarttime=1600085231&mytokenhash=B3Eo4jgzrqb6qalJ-f53LZcLvs3HT7pC2Rzdyvu3PaM%3D
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bt sport1
 https://www.livedoomovie.com:443/02_BTSPORTHD_1_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
@@ -138,12 +134,7 @@ https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
 https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",TRUE NBA
 https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",ASTRO SUPPERSPORT 1
-http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",ASTRO SUPPERSPORT 2
-http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",ASTRO SUPPERSPORT 3
-http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+
 
 
 
