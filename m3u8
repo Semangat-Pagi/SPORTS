@@ -52,7 +52,7 @@ https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
 #EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports1.png",SKYNET SPORTS 1
 https://www.livedoomovies.com/03_skynetsport1_480p/chunklist.m3u8
 #EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports2.png",SKYNET SPORTS 2
-https://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
+https://www.livedoomovies.com/03_skynetsport2_480p/chunklist.m3u8
 #EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports3.png",SKYNET SPORTS 3
 https://www.livedoomovies.com/03_skynetsport3_480p/chunklist.m3u8
 #EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports4.png",SKYNET SPORTS 4
@@ -62,15 +62,15 @@ https://www.livedoomovies.com/03_skynetsport5_480p/chunklist.m3u8
 #EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports6.png",SKYNET SPORTS 6
 https://www.livedoomovies.com/03_skynetsport6_480p/chunklist.m3u8
 #EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv1.jpg",SPORT TV 1
-https://sport.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+https://sport.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv2.jpg",SPORT TV 2
-https://sport.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+https://sport.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv3.jpg",SPORT TV 3
-https://sport.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
+https://sport.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv4.jpg",SPORT TV 4
-https://sport.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+https://sport.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv5.jpg",SPORT TV 5
-https://sport.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+https://sport.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",EPL PTV SPORTS 1
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",EPL PTV SPORTS 2
@@ -78,7 +78,7 @@ http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",PPTV 1
 http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/playist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",PPTV 2
-https://www.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_PPTVHD_720p/chunklist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",PPTV 3
 http://160.119.77.116:8081/iptv/hd-pptv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WORLD SPORTS",SPORTS TV
@@ -101,12 +101,13 @@ https://95-213-224-182.livesports24.online:443/mfootball2rus.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",Serie A mytgon 3
 https://46-166-142-27.livesports24.online/rumatchf3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bt sport1
-https://www.livedoomovie.com:443/02_BTSPORTHD_1_720p/chunklist.m3u8
+https://www.livedoomovies.com:443/02_BTSPORTHD_1_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bt sport2
 https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bt sport3
+https://www.livedoomovies.com/02_BTSPORTHD_3_720p/chunklist.m3u8
 http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="WORLD SPORTS",Eleven Sport1 
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8 
@@ -133,7 +134,7 @@ https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",TRUE SPORT HD7
 https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",TRUE NBA
-https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
 
 
 
@@ -163,15 +164,15 @@ https://95-213-224-179.livesports24.online/matchplanetarus.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FOOTBALL",NBCSN 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/606
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 1
-https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 2
-https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 3
-https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 4
-https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 5
-https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 1
 http://77.54.145.209:81/play/a02v
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 2
@@ -217,7 +218,7 @@ rtmp://58.200.131.2:1935/livetv/starsports
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2",True Premiere Football HD1
 https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2",True Premiere Football SD1
-https://www.livedoomovie.com/02_PremierHD1_480p/chunklist.m3u8
+https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2",TRUE PREMIER FOOTBALL 1
 http://160.119.77.116:8081/iptv/epl-1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2",TRUE PREMIER FOOTBALL 2
@@ -259,21 +260,20 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2",ufc 4
 http://live-ng-01.more.tv/hls/UFC/index_0.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2",TENNIS HD
-https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2",NBA HD
 https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2",GOLF HD
-https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_golfhd_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2",SPORT T
-https://www.livedoomovie.com/02_T_Sports_480p/chunklist.m3u8
+https://www.livedoomovies.com/02_T_Sports_480p/chunklist.m3u8
 
 
 
 
 
 =============================================BeinSports==================================================================
-#EXTINF:-1 tvg-logo="TEST" group-title="BeinSports", Special bein sport extra
-https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
+
 
 
 
@@ -286,11 +286,11 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOX SPORT 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_1000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOX SPORTS 1
-https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOX SPORTS 2
-https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOX SPORTS 3
-https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOX SPORTS VN 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOX SPORTS VN 2 (MOTO GP)
