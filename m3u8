@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",CHAMPIONS1 VID
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/Champion1Vid.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",PREMIER1 SD 640P
 https://www.livedoomovies.com:443/02_PremierHD1_480p/chunklist.m3u8
 https://www.livedoomovie.com/02_PremierHD1_480p/chunklist.m3u8
