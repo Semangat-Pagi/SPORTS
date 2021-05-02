@@ -140,6 +140,27 @@ https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
 https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
 
 
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS",BEIN 1
+http://starshare.live:8080/live/arfat/arfat/356.ts
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS",BEIN 2
+http://starshare.live:8080/live/arfat/arfat/357.ts
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS",BEIN 3
+http://starshare.live:8080/live/arfat/arfat/358.ts
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS",BEIN 1
+http://starshare.live:8080/live/arfat/arfat/359.ts
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS",BEIN 2
+http://starshare.live:8080/live/arfat/arfat/360.ts
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS",BEIN 3
+http://starshare.live:8080/live/arfat/arfat/361.ts
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS",BEIN 4
+http://starshare.live:8080/live/arfat/arfat/362.ts
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS",BEIN 5
+http://starshare.live:8080/live/arfat/arfat/363.ts
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS",BEIN 6
+http://starshare.live:8080/live/arfat/arfat/364.ts
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS",BEIN 7
+http://starshare.live:8080/live/arfat/arfat/365.ts
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="FOOTBALL",ZQ SPORTS 
