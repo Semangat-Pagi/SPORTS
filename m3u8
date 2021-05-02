@@ -4,6 +4,14 @@ https://www.livedoomovies.com:443/02_PremierHD1_480p/chunklist.m3u8
 https://www.livedoomovie.com/02_PremierHD1_480p/chunklist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",PREMIER2 SD 640P
 https://www.livedoomovies.com:443/02_PremierHD2_480p/chunklist.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",PREMIER1
+http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",PREMIER2
+http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",ESPN 
+http://23.237.78.54/live-1000/244/playlist.m3u8 
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",La liga 
+http://31.220.41.90:8081/live/bein-laliga.stream/playlist.m3u8 
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WORLD SPORTS",Eurosport 1 
 https://www.livedoomovies.com:443/02_EUROHD1_720p/chunklist.m3u8
 http://185.59.223.95:80/STARSP_1HD/tracks-v1a1/mono.m3u8?Urj7svfj=&Rkj2f3jk=&Czj1i9k6=
