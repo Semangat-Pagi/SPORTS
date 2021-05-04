@@ -20,6 +20,7 @@ http://185.59.223.95:80/STARSP_1HD/tracks-v1a1/mono.m3u8?Urj7svfj=&Rkj2f3jk=&Czj
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",Eurosport 2
 https://www.livedoomovies.com:443/02_EUROHD2_720p/chunklist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",FOOTBALL LIVE
+https://d15kqacz1cx8ur.cloudfront.net:443/out/v1/4a571effc8ce49b5a3ac265aad5b53ba/Lcop07_1.m3u8?from=other&vsid=d9227f9bd37031b12c8a546615636f83f7094e20f61bxWEBx5946x1620152575&adsid=60ca40ae195cd3cd80d99cbac44102328db8749dcc9fxWEBx5946x1620152575&t=1620152576178&abd=1
 https://dcomrmrhmfmi5.cloudfront.net:443/out/v1/960c982c1bae4f7884a8b6bc5c69190c/index_3.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",ASSP 1
 http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
