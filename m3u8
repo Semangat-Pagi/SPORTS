@@ -128,9 +128,10 @@ https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WorldSports",bt sport2
 https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WorldSports",bt sport3
-https://www.livedoomovies.com/02_BTSPORTHD_3_720p/chunklist.m3u8
-http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WorldSports",bt sport1*
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WorldSports",bt sport2*
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="WorldSports",Eleven Sport1 
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png" group-title="WorldSports",Eleven Sport2 
@@ -355,6 +356,12 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOX SPORTS VN 3
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165088
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOXSPORTS1*
+http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOXSPORTS2*
+http://77.83.117.60:8888/02_FoxSport2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOXSPORTS3*
+http://77.83.117.60:8888/02_FoxSport3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOX SPORTS tes
 http://14.169.59.87:8889/rtp/232.84.2.142:10672
 #EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOX SPORTS tes
