@@ -370,6 +370,14 @@ http://14.169.59.87:8889/rtp/232.84.2.141:10666
 =====================================================AstroSports===========================================================================
 #EXTINF:-1 tvg-logo="TEST" group-title="AstroSports",Astro Arena 
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="AstroSports",Astro hd
+http://77.247.108.18:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247415
+#EXTINF:-1 tvg-logo="TEST" group-title="AstroSports",Assp2 
+http://77.247.108.18:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247417
+#EXTINF:-1 tvg-logo="TEST" group-title="AstroSports",Assp3
+http://77.247.108.18:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247418
+#EXTINF:-1 tvg-logo="TEST" group-title="AstroSports",Assp4
+http://77.247.108.18:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247419
 
 =======================================================================SportsUnggulan====================================================================================================
 #EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",BAYERN MUNICH TV
