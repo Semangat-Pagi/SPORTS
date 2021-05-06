@@ -26,6 +26,14 @@ http://31.220.41.88:8081/live/nl-foxsports4.stream/chunks.m3u8
 http://31.220.41.88:8081/live/nl-foxsports5.stream/chunks.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",ESPN 6
 http://31.220.41.88:8081/live/nl-foxsports6.stream/chunks.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",Btsport1 
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",Btsport2
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",Btsport3
+http://31.220.41.88:8081/live/bt33.stream/playlist.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",Btsport ESPN
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/3b5901d4c8158d3.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",La liga 
 http://31.220.41.90:8081/live/bein-laliga.stream/playlist.m3u8 
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",Eurosport 1 
@@ -46,6 +54,8 @@ http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",BEINSPORT EXTRA
 https://service-stitcher.clusters.pluto.tv:443/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=tr
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",BEINSPORT EXTRA*
+https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",bein1
 https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",bein2
@@ -114,6 +124,10 @@ http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",EPL PTV SPORTS 2
 http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",PTV SPORTS 3
+http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",NBCSN GOLD
+http://77.247.108.18:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/35600
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",PPTV 
 https://www.livedoomovies.com/02_PPTVHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WorldSports",SPORTS TV
@@ -204,6 +218,21 @@ http://starshare.live:8080/live/arfat/arfat/363.ts
 http://starshare.live:8080/live/arfat/arfat/364.ts
 #EXTINF:-1 tvg-logo="" group-title="BEINSPORTS",BEIN 7
 http://starshare.live:8080/live/arfat/arfat/365.ts
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS",Beun 1
+http://173.198.198.102:25461/shahidandroid/FeyxFIpoYz/1
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS",Bein 2
+http://173.198.198.102:25461/shahidandroid/FeyxFIpoYz/2
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS",Bein 3
+http://173.198.198.102:25461/shahidandroid/FeyxFIpoYz/5
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS",Bein 1
+http://skylogic.site:8080/esterichannel50con/36cb6c13/110
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS",Bein 1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/e1ac7abfbc62d03.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS",Bein 2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/2641e86a2f437af.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS",Bein 3
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b8df5327ef42ebd.m3u8
+
 
 
 
@@ -359,13 +388,16 @@ https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOX SPORTS 3
 https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOX SPORTS VN 1
+#EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOX SPORTS 1
+http://77.247.108.18:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162517
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162517
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOX SPORTS VN 2 (MOTO GP)
+#EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOX SPORTS 2 (MOTO GP)
+http://77.247.108.18:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162516
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162516
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOX SPORTS VN 3
+#EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOX SPORTS 3
+http://77.247.108.18:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165088
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165088
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOXSPORTS1*
@@ -374,6 +406,18 @@ http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_FoxSport2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOXSPORTS3*
 http://77.83.117.60:8888/02_FoxSport3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOXSPORTS1 MAL
+http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOXSPORTS2 MAL
+http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOXSPORTS3 MAL
+http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",Fox sports 1 us
+http://77.247.108.18:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/756
+#EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",Fox Sports 2 us
+http://77.247.108.18:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/757
+
+
 #EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOX SPORTS tes
 http://14.169.59.87:8889/rtp/232.84.2.142:10672
 #EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOX SPORTS tes
