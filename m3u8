@@ -190,6 +190,94 @@ https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
 https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
 
 
+
+
+======================================WorldSports2====================================================
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/1200px-ERTSPORTS_logo_2020.svg.png" group-title="WorldSports2", GRE | EPT SPORTS 1 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/1200px-ERTSPORTS_logo_2020.svg.png" group-title="WorldSports2", GRE | EPT SPORTS 2 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2medium.m3u8 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/1200px-ERTSPORTS_logo_2020.svg.png" group-title="WorldSports2", GRE | EPT SPORTS 3 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3medium.m3u8 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/1200px-ERTSPORTS_logo_2020.svg.png" group-title="WorldSports2", GRE | EPT SPORTS 4 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_4/ert_sports_4medium.m3u8 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/1200px-ERTSPORTS_logo_2020.svg.png" group-title="WorldSports2", GRE | EPT SPORTS 5 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_5/ert_sports_5medium.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SuperSport_Albania.svg/1280px-SuperSport_Albania.svg.png" group-title="WorldSports2", ALB | SUPERSPORT 1
+http://147.78.163.247:8000/play/a02f
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SuperSport_Albania.svg/1280px-SuperSport_Albania.svg.png" group-title="WorldSports2", ALB | SUPERSPORT 2
+http://147.78.163.247:8000/play/a02e
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SuperSport_Albania.svg/1280px-SuperSport_Albania.svg.png" group-title="WorldSports2", ALB | SUPERSPORT 3
+http://147.78.163.247:8000/play/a02g
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SuperSport_Albania.svg/1280px-SuperSport_Albania.svg.png" group-title="WorldSports2", ALB | SUPERSPORT 4
+http://147.78.163.247:8000/play/a02h
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SuperSport_Albania.svg/1280px-SuperSport_Albania.svg.png" group-title="WorldSports2", ALB | SUPERSPORT 5
+http://147.78.163.247:8000/play/a02t
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SuperSport_Albania.svg/1280px-SuperSport_Albania.svg.png" group-title="WorldSports2", ALB | SUPERSPORT 6
+http://147.78.163.247:8000/play/a02u
+#EXTINF:-1 tvg-logo="https://dracarys.gjirafa.com/api/media/gjvideo/ytkx1t/retina.jpg" group-title="WorldSports2", ALB | K SPORT 1
+http://93.157.62.180/KSport1/index.m3u8
+#EXTINF:-1 tvg-logo="https://dracarys.gjirafa.com/api/media/gjvideo/ytkx1t/retina.jpg" group-title="WorldSports2", ALB | K SPORT 2
+http://93.157.62.180/KSport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://dracarys.gjirafa.com/api/media/gjvideo/ytkx1t/retina.jpg" group-title="WorldSports2", ALB | K SPORT 3
+http://93.157.62.180/KSport3/index.m3u8
+#EXTINF:-1 tvg-logo="https://dracarys.gjirafa.com/api/media/gjvideo/ytkx1t/retina.jpg" group-title="WorldSports2", ALB | K SPORT 4
+http://93.157.62.180/KSport4/index.m3u8
+#EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/proxy/wWzqXT-iNUZoFrWRFpbYl75Na3Zy6GjuOuDg83q8bJ1SzGtf6_gmVrVjHG5Qu1hgg7hbIubf5qJFH7-oZ--OzRJQUnzk" group-title="WorldSports2", BIELOR | 5 SPORT 
+https://185-198-56-58.livesports24.online/belarusss5.m3u8
+#EXTINF:-1 tvg-logo="https://www.broadcastrental.com/wp-content/uploads/2015/08/Ziggo_Sport_Logo.png" group-title="WorldSports2", HOL | ZIGGO VOETBAL
+http://31.220.41.88:8081/live/nl-ziggovoetbal.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.broadcastrental.com/wp-content/uploads/2015/08/Ziggo_Sport_Logo.png" group-title="WorldSports2", HOL | ZIGGO SELECT
+http://31.220.41.88:8081/live/nl-ziggoselect.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.broadcastrental.com/wp-content/uploads/2015/08/Ziggo_Sport_Logo.png" group-title="WorldSports2", HOL | ZIGGO RACING
+http://31.220.41.88:8081/live/nl-ziggoracing.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://media.engage.it/2021/1/bike-bfc_326346.jpg" group-title="WorldSports2", IT | BIKE SMART MOBILITY
+https://backup.superstreaming.inaria.me/BikeSmartMobilityDTT/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Sky_Sport_24_-_Logo_2018.svg/1200px-Sky_Sport_24_-_Logo_2018.svg.png" group-title="WorldSports2", IT | SKY SPORT 24
+https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="WorldSports2", IT | SPORT ITALIA CALCIO
+https://www.mytivu.it/Application/Channels/SISoloCalcio.php
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="WorldSports2", IT | SPORT ITALIA LIVE 24
+https://www.mytivu.it/Application/Channels/SILive24.php
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="WorldSports2", IT | SPORT ITALIA PLUS
+https://www.mytivu.it/Application/Channels/SI.php
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="WorldSports2", IT | SPORT ITALIA 24
+https://www.mytivu.it/Application/Channels/SILive24.php
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/5a6f534f017db2d628751be1/1601131230797-9W7CJPDNOK6MR1YCJ13J/EDGEsport+Dark.png?format=1000w&content-type=image%2Fpng" group-title="WorldSports2", UK | EDGE SPORT
+https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png" group-title="WorldSports2", PT | CANAL 11 
+https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
+#EXTINF:-1 group-title="WorldSports2" tvg-logo="https://i.ibb.co/zGkJr7g/Eleven-Sports1logobyvovanloc.png", POL | ELEVEN SPORTS 1 HD
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+#EXTINF:-1 group-title="WorldSports2" tvg-logo="https://i.ibb.co/KjzD1QG/Eleven-Sports2logobyvovanloc.png", POL | ELEVEN SPORTS 2 HD
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/CanalPlusSport.pl.png" group-title="WorldSports2", POL | CANAL + SPORTS
+http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_UC4NSl5xpEw7GFClwKO0XEo5zUJUxRu_WQ&usqp=CAU" group-title="WorldSports2", RUS | ASTRAKHAN RU
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQejV-xC6Kp6NE9CJ1GCHKOiDI9VanT711KUQ&usqp=CAU" group-title="WorldSports2", RUS | MATCH! FOOTBALL 1 HD
+https://95-213-224-179.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP5M8tqZZXTRxUBzZhIjdbIi30uHC-iP72Yw&usqp=CAU" group-title="WorldSports2", RUS | MATCH! FOOTBALL 2 HD
+https://95-213-224-179.livesports24.online/mfootball2rus.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIZ-9x19w1DM8IqA2xJHVuA5ngE2yd-fry4A&usqp=CAU" group-title="WorldSports2", RUS | MATCH! FOOTBALL 3 HD
+https://95-213-172-220.livesports24.online/rumatchf3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuWgQ6hEfRrMgjyNvLJFv-dvDL3D15ll2Ri_FK8gvTAU1KYvU&s" group-title="WorldSports2", RUS | MATCH! PREMIER
+http://46.174.189.51/matchpremer/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/KHL_logo_shield_2016.svg/1200px-KHL_logo_shield_2016.svg.png" group-title="WorldSports2", RUS | KHL HD
+https://95-213-224-179.livesports24.online/khlhdru.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtgf8hpeqRJTg3FLtyHBfMZxNlkY2JDRPZfQ&usqp=CAU" group-title="WorldSports2", RUS | VIASAT SPORT
+http://myott.top/stream/DHMU2PPUTSS/333.m3u8
+#EXTINF:-1 tvg-logo="https://audienzz.ch/wp-content/uploads/2016/10/swiss_sport.tv-logo-1.png" group-title="WorldSports2", SUIZA | SWISS SPORT TV
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1922077967_b2628000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DktF0DL/trtspor.png" group-title="WorldSports2", TK | TRT SPOR
+https://tv-trt3.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuQQifDxCgaX0n3ng8gvvehQEcwsQQQdL2Cw&usqp=CAU" group-title="WorldSports2", UCRA | FOOTBALLUA 1
+https://95-213-224-179.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuQQifDxCgaX0n3ng8gvvehQEcwsQQQdL2Cw&usqp=CAU" group-title="WorldSports2", UCRA | FOOTBALLUA 2
+https://95-213-224-179.livesports24.online/fooootball2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuQQifDxCgaX0n3ng8gvvehQEcwsQQQdL2Cw&usqp=CAU" group-title="WorldSports2", UCRA | FOOTBALLUA 3
+https://95-213-172-220.livesports24.online/football3ua.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbIkxCjYHGpobHQhKkaqUu66j7sYuK8C8YEsIsoasP&s" group-title="WorldSports2", UCRA | SPORT1
+https://95-213-224-181.livesports24.online/sport1ua.m3u8?885415001050a
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fi/f/f3/World_Rugby_Sevens_Series_logo.png" group-title="WorldSports2", UK | RUGBY MEN'S SEVEN
+https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HZp8PAw.png" group-title="WorldSports2", UK | RUGBY WOMEN'S SEVEN
+https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
+
+
+
+===========+=+++++==================BEINSPORTS=============) =))))))) ===========
 #EXTINF:-1 tvg-logo="" group-title="BEINSPORTS",BEIN 1
 https://b.pscdn.live/hls/bein-sports-1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BEINSPORTS",BEIN 2
