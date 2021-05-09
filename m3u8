@@ -185,6 +185,10 @@ https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
 
 
 ======================================WorldSports2====================================================
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WorldSports2",Hi sport hd
+http://203.154.243.31:8081/live/hisport/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WorldSports2",Tennis tv
+http://203.154.243.31:8081/live/tennis/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Sky_Sport_24_-_Logo_2018.svg/1200px-Sky_Sport_24_-_Logo_2018.svg.png" group-title="WorldSports2", IT | SKY SPORT 24
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.engage.it/2021/1/bike-bfc_326346.jpg" group-title="WorldSports2", IT | BIKE SMART MOBILITY
