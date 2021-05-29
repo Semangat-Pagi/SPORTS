@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",EPL1
-http://cloudcdn.tk:80/live/hlFAVudb6450/mvim5H563/19032.ts
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",EPL2
-http://cloudcdn.tk:80/live/hlFAVudb6450/mvim5H563/19033.ts
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",PREMIER1 SD 640P
 https://www.livedoomovies.com:443/02_PremierHD1_480p/chunklist.m3u8
 https://www.livedoomovie.com/02_PremierHD1_480p/chunklist.m3u8
