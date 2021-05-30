@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",PREMIER1 SD 640P
-https://www.livedoomovies.com:443/02_PremierHD1_480p/chunklist.m3u8
-https://www.livedoomovie.com/02_PremierHD1_480p/chunklist.m3u8
+#https://www.livedoomovies.com:443/02_PremierHD1_480p/chunklist.m3u8
+#https://www.livedoomovie.com/02_PremierHD1_480p/chunklist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",PREMIER2 SD 640P
-https://www.livedoomovies.com:443/02_PremierHD2_480p/chunklist.m3u8
+#https://www.livedoomovies.com:443/02_PremierHD2_480p/chunklist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",PREMIER1
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",PREMIER2
@@ -33,10 +33,10 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/3b5901d4c8158d
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",La liga 
 http://31.220.41.90:8081/live/bein-laliga.stream/playlist.m3u8 
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",Eurosport 1 
-https://www.livedoomovies.com:443/02_EUROHD1_720p/chunklist.m3u8
-http://185.59.223.95:80/STARSP_1HD/tracks-v1a1/mono.m3u8?Urj7svfj=&Rkj2f3jk=&Czj1i9k6=
+#https://www.livedoomovies.com:443/02_EUROHD1_720p/chunklist.m3u8
+#http://185.59.223.95:80/STARSP_1HD/tracks-v1a1/mono.m3u8?Urj7svfj=&Rkj2f3jk=&Czj1i9k6=
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",Eurosport 2
-https://www.livedoomovies.com:443/02_EUROHD2_720p/chunklist.m3u8
+#https://www.livedoomovies.com:443/02_EUROHD2_720p/chunklist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",FOOTBALL LIVE
 #https://d15kqacz1cx8ur.cloudfront.net:443/out/v1/4a571effc8ce49b5a3ac265aad5b53ba/Lcop07_1.m3u8?from=other&vsid=d9227f9bd37031b12c8a546615636f83f7094e20f61bxWEBx5946x1620152575&adsid=60ca40ae195cd3cd80d99cbac44102328db8749dcc9fxWEBx5946x1620152575&t=1620152576178&abd=1
 #https://dcomrmrhmfmi5.cloudfront.net:443/out/v1/960c982c1bae4f7884a8b6bc5c69190c/index_3.m3u8
@@ -53,9 +53,9 @@ https://service-stitcher.clusters.pluto.tv:443/stitch/hls/channel/5df975e2b27cf5
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",BEINSPORT EXTRA*
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",bein1
-https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8
+#https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",bein2
-https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8
+#https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",bein1°
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",bein2°
@@ -69,8 +69,8 @@ http://3.alhawalouh.xyz:80/live/6151278887/index.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",MOTOGP
 http://2.alhawalouh.xyz:80/live/1515000000/index.m3u8
 #EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/sd-skynetsportshd.png",SKYNET SPORTS HD
-https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports1.png",SKYNET SPORTS 1
+#https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
+EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports1.png",SKYNET SPORTS 1
 https://www.livedoomovies.com/03_skynetsport1_480p/chunklist.m3u8
 #EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports2.png",SKYNET SPORTS 2
 https://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
