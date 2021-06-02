@@ -510,23 +510,11 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOX SPORT 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_1000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOX SPORTS 1
-https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
+#https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOX SPORTS 2
-https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOX SPORTS 3
-https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOX SPORTS 1
-http://77.247.108.18:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162517
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162517
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOX SPORTS 2 (MOTO GP)
-http://77.247.108.18:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162516
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162516
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOX SPORTS 3
-http://77.247.108.18:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165088
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165088
-https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/playlist.m3u8
+#https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOXSPORTS1*
 http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOXSPORTS2*
@@ -539,16 +527,10 @@ http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOXSPORTS3 MAL
 http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",Fox sports 1 us
-http://77.247.108.18:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/756
-#EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",Fox Sports 2 us
-http://77.247.108.18:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/757
 
 
-#EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOX SPORTS tes
-http://14.169.59.87:8889/rtp/232.84.2.142:10672
-#EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOX SPORTS tes
-http://14.169.59.87:8889/rtp/232.84.2.141:10666
+
+
 
 =====================================================AstroSports===========================================================================
 #EXTINF:-1 tvg-logo="TEST" group-title="AstroSports",Astro Arena 
