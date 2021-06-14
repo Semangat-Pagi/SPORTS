@@ -1,8 +1,14 @@
 #EXTM3U
+
+
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",EURO 2020'
 https://m3u-editor.com/serve/a9490c60-ca60-11eb-9757-a16ca088906c/314147869
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",EURO 2020''
 https://piratesiptv.shortcm.li/sohel-vai-er-theke-curi-korsi-link1.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",EURO 2020'''
+http://ott-cdn.ucom.am/s83/03.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",EURO 2020''''
+https://d1qan2ekrr8t7a.cloudfront.net/out/v1/c8f8c36918284375971ecfbb9f5aac98/index.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",EURO 2020*
 http://91.126.141.13:1935/live/51/playlist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",EURO 2020**
