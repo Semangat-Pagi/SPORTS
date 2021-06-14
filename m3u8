@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",EURO 2020 
+https://piratesiptv.shortcm.li/sohel-vai-er-theke-curi-korsi-link1.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",EURO 2020*
 http://91.126.141.13:1935/live/51/playlist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",EURO 2020**
