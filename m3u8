@@ -1,6 +1,8 @@
 #EXTM3U
-
-
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",OLIMPIADE 1
+http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",OLIMPIADE 2
+https://95-213-224-169.livesports24.online/ooomatch.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",EURO 2020'
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV6-HD-1080p/playlist.m3u8
 https://m3u-editor.com/serve/a9490c60-ca60-11eb-9757-a16ca088906c/314147869
