@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",OLIMPIADE 1
+http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",OLIMPIADE 2
 https://95-213-224-169.livesports24.online/ooomatch.m3u8
