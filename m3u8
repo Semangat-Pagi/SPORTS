@@ -97,8 +97,8 @@ http://3.alhawalouh.xyz:80/live/6151278887/index.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",MOTOGP
 http://2.alhawalouh.xyz:80/live/1515000000/index.m3u8
 #EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/sd-skynetsportshd.png",SKYNET SPORTS HD
-#https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
-EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports1.png",SKYNET SPORTS 1
+https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports1.png",SKYNET SPORTS 1
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports1/index.m3u8
 #https://www.livedoomovies.com/03_skynetsport1_480p/chunklist.m3u8
 #EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports2.png",SKYNET SPORTS 2
