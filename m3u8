@@ -1,6 +1,27 @@
 #EXTM3U
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",Live LIGA INGGRIS 
 https://d4p62oigkrwn5.cloudfront.net/out/v1/b464645538f8478db2592a669de79e71/index.m3u8
+#EXTINF: -1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="WorldSports", TRUE PREMIER LEAGUE 1 
+https://m3u-editor.com/serve/bedd47d0-cfe4-11eb-9773-f707dc9b4abc/319387705 
+#EXTINF: -1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="WorldSports", TRUE PREMIER LEAGUE 2 
+https://m3u-editor.com/serve/bedd47d0-cfe4-11eb-9773-f707dc9b4abc/319387706 
+#EXTINF: -1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="WorldSports", TRUE PREMIER LEAGUE 3 
+https://m3u-editor.com/serve/bedd47d0-cfe4-11eb-9773-f707dc9b4abc/319387707 
+#EXTINF: -1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="WorldSports", TRUE PREMIER LEAGUE 4 
+https://m3u-editor.com/serve/bedd47d0-cfe4-11eb-9773-f707dc9b4abc/319387708 
+#EXTINF: -1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="WorldSports", TRUE PREMIER LEAGUE 5
+http://178.175.132.170:8888/02_PremierHD5_720p/chunklist.m3u8 
+https://m3u-editor.com/serve/bedd47d0-cfe4-11eb-9773-f707dc9b4abc/319387709
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",RMC1 
+https://m3u-editor.com/serve/bedd47d0-cfe4-11eb-9773-f707dc9b4abc/319387680
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",RMC2
+https://m3u-editor.com/serve/bedd47d0-cfe4-11eb-9773-f707dc9b4abc/319387681
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",BT SPORT 1
+https://m3u-editor.com/serve/bedd47d0-cfe4-11eb-9773-f707dc9b4abc/319387716
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",BT SPORT 2
+https://m3u-editor.com/serve/bedd47d0-cfe4-11eb-9773-f707dc9b4abc/319387717
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",ASTRO SUPERSPORTS 2
+https://m3u-editor.com/serve/bedd47d0-cfe4-11eb-9773-f707dc9b4abc/319387720
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",OLIMPIADE 1
 http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
