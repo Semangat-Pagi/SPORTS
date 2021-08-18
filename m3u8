@@ -66,8 +66,6 @@ http://31.220.41.90:8081/live/bein-laliga.stream/playlist.m3u8
 #http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",ASSP 4
 #http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",BEINSPORT EXTRA
-https://service-stitcher.clusters.pluto.tv:443/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=tr
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",BEINSPORT EXTRA*
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",bein1
@@ -78,16 +76,6 @@ https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",bein2°
 http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",bein1*
-http://1.alhawalouh.xyz:80/live/6161655/index.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",bein2*
-http://2.alhawalouh.xyz:80/live/616194987/index.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",bein3*
-http://3.alhawalouh.xyz:80/live/6151278887/index.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",MOTOGP
-http://2.alhawalouh.xyz:80/live/1515000000/index.m3u8
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/sd-skynetsportshd.png",SKYNET SPORTS HD
-https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
 #EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports1.png",SKYNET SPORTS 1
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports1/index.m3u8
 #https://www.livedoomovies.com/03_skynetsport1_480p/chunklist.m3u8
@@ -98,25 +86,13 @@ http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/index.m3u8
 http://916309128f3e.sn.mynetname.net:1935/aslive/astrosupersport4/index.m3u8
 #https://www.livedoomovies.com/03_skynetsport3_480p/chunklist.m3u8
 #EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports4.png",SKYNET SPORTS 4
-#https://www.livedoomovies.com/03_skynetsport4_480p/chunklist.m3u8
+https://www.livedoomovies.com/03_skynetsport4_480p/chunklist.m3u8
 #EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports5.png",SKYNET SPORTS 5
-#https://www.livedoomovies.com/03_skynetsport5_480p/chunklist.m3u8
+https://www.livedoomovies.com/03_skynetsport5_480p/chunklist.m3u8
 #EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports6.png",SKYNET SPORTS 6
-#https://www.livedoomovies.com/03_skynetsport6_480p/chunklist.m3u8
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/sd-skynetsportshd.png",SKYNET SPORTS HD
-http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/sd-skynetsportshd.png",SKYNET SPORTS 1
-http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/sd-skynetsportshd.png",SKYNET SPORTS 2
-http://77.83.117.60:8888/03_skynetsport2_480p/chunklist.m3u8
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/sd-skynetsportshd.png",SKYNET SPORTS 3
-http://77.83.117.60:8888/03_skynetsport3_480p/chunklist.m3u8
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/sd-skynetsportshd.png",SKYNET SPORTS 4
-http://77.83.117.60:8888/03_skynetsport4_480p/chunklist.m3u8
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/sd-skynetsportshd.png",SKYNET SPORTS 5
-http://77.83.117.60:8888/03_skynetsport5_480p/chunklist.m3u8
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/sd-skynetsportshd.png",SKYNET SPORTS 6
-http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8
+https://www.livedoomovies.com/03_skynetsport6_480p/chunklist.m3u8
+
+
 #EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv1.jpg",SPORT TV 1
 #https://sport.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv2.jpg",SPORT TV 2
