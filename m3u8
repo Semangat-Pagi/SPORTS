@@ -3,6 +3,10 @@
 https://d4p62oigkrwn5.cloudfront.net/out/v1/b464645538f8478db2592a669de79e71/index.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",TV MATIC
 http://cdn.tvmatic.net/sport.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",Live LIGA INGGRIS 2
+http://203.159.95.172:8081/live/bein01/chunks.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",Live LIGA INGGRIS 3
+https://cloudserver.server-cdn-streaming.com/live-player/26/live.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",OLIMPIADE 1
 http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
@@ -10,7 +14,6 @@ http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
 https://95-213-224-169.livesports24.online/ooomatch.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",OLIMPIADE 3
 http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8?token=gelow74
-
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",EURO 2020'''
 http://ott-cdn.ucom.am/s83/03.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",EURO 2020*
