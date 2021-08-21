@@ -2,9 +2,8 @@
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",Live LIGA INGGRIS 1
 http://31.220.41.88:8081/live/fr-sfr1.stream/playlist.m3u8
 https://d4p62oigkrwn5.cloudfront.net/out/v1/b464645538f8478db2592a669de79e71/index.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",TV MATIC
-http://cdn.tvmatic.net/sport.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",Live LIGA INGGRIS 2
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",Live LIGA INGGRIS 2'
+http://31.220.41.88:8081/live/de-skysport1.stream/playlist.m3u8
 http://203.159.95.172:8081/live/bein01/chunks.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",Live LIGA INGGRIS 3
 https://cloudserver.server-cdn-streaming.com/live-player/26/live.m3u8
