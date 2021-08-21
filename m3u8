@@ -5,8 +5,8 @@ https://d4p62oigkrwn5.cloudfront.net/out/v1/b464645538f8478db2592a669de79e71/ind
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",Live LIGA INGGRIS 2'
 http://31.220.41.88:8081/live/de-skysport1.stream/playlist.m3u8
 http://203.159.95.172:8081/live/bein01/chunks.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",Live LIGA INGGRIS 3
-https://cloudserver.server-cdn-streaming.com/live-player/26/live.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",Live LIGA INGGRIS 3'
+http://93.157.62.180:80/Supersport2/index.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",Live LIGA INGGRIS 4
 http://4digital.ddns.net:11223/ts/0
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",Live LIGA INGGRIS 5
