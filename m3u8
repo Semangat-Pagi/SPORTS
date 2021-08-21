@@ -9,6 +9,8 @@ http://203.159.95.172:8081/live/bein01/chunks.m3u8
 https://cloudserver.server-cdn-streaming.com/live-player/26/live.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",Live LIGA INGGRIS 4
 http://4digital.ddns.net:11223/ts/0
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",Live LIGA INGGRIS 5
+http://203.159.95.172:8081/live/bein02/chunks.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",OLIMPIADE 1
 http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
