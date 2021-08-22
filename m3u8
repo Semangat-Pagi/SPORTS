@@ -139,16 +139,6 @@ http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv5.jpg",SPORT​S TV 5
 http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",EPL PTV SPORTS 1
-https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",EPL PTV SPORTS 2
-http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",PTV SPORTS 3
-http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",NBCSN GOLD
-http://77.247.108.18:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/35600
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",PPTV 
-https://www.livedoomovies.com/02_PPTVHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WorldSports",SPORTS TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WorldSports",Матч! Футбол 1 HD
