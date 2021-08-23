@@ -31,6 +31,8 @@ https://22live00.akamaized.net/RMC_Sports_1/index.m3u8?token=JPxfa1FF6N8Zb3ZLI9f
 http://93.157.62.180/Supersport1/index.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",Live LIGA INGGRIS 14
 http://31.220.41.88:8081/live/beinus.stream/chunks.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",Live LIGA INGGRIS 15
+http://11.yaciaptk.xyz/live/6161655/index.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",OLIMPIADE 1
 http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
