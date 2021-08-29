@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",SK SPORT 1 HD
+http://31.220.41.86:8081/live/klub1.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",SK SPORT 2 HD
+http://31.220.41.86:8081/live/klub2.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",SK SPORT 3 HD
+http://31.220.41.86:8081/live/klub3.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",USEE SPORTS 1, 
 http://topwin-tv.my.id/2/chunklist.m3u8?id=useesport&bandwidth=default&sync=0
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Champions TV 1
