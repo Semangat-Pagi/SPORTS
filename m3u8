@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="useesport" tvg-name="usee sport Liga 1 BRI" tvg-logo="" group-title="WorldSports",BEIN SPORT 1 PREMIUM 
+http://178.175.132.170:8888/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1 tvg-id="useesport" tvg-name="usee sport Liga 1 BRI" tvg-logo="" group-title="WorldSports",BEIN SPORT 2 PREMIUM 
+http://178.175.132.170:8888/02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-id="useesport" tvg-name="usee sport Liga 1 BRI" tvg-logo="" group-title="WorldSports",UseeSport1*
 https://iptvid.cgflix.xyz:443/Usee/sport/usees1.m3u8
 #EXTINF:-1 tvg-id="useesport" tvg-name="usee sport Liga 1 BRI" tvg-logo="" group-title="WorldSports",UseeSport2*
