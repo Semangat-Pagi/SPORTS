@@ -40,8 +40,10 @@ http://jupiter.bdcabletv.com/select_2/video.m3u8
 http://31.220.41.88:8081/live/fr-sfr1.stream/playlist.m3u8
 https://d4p62oigkrwn5.cloudfront.net/out/v1/b464645538f8478db2592a669de79e71/index.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",Live LIGA INGGRIS 2'
+http://1.nrouahwar.xyz:80/live/6161655/index.m3u8
 http://31.220.41.88:8081/live/de-skysport1.stream/playlist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",Live LIGA INGGRIS 3'
+http://2.nrouahwar.xyz:80/live/616194987/index.m3u8
 http://93.157.62.180:80/Supersport2/index.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",Live LIGA INGGRIS 4
 http://203.159.95.172:8081/live/bein01/chunks.m3u8
@@ -69,6 +71,7 @@ http://93.157.62.180/Supersport1/index.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",Live LIGA INGGRIS 14
 http://31.220.41.88:8081/live/beinus.stream/chunks.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",Live LIGA INGGRIS 15
+http://3.nrouahwar.xyz:80/live/6151278887/index.m3u8
 http://11.yaciaptk.xyz/live/6161655/index.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",OLIMPIADE 1
 http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
