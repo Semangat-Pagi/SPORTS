@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Spotv
+https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
 http://158.69.25.22:25469/live/cvasd6g6g5bv/cvasd6g6g5bv/200238149.m3u8
 #EXTINF:-1 tvg-id="useesport" tvg-name="usee sport Liga 1 BRI" tvg-logo="" group-title="WorldSports",BEIN SPORT 1 PREMIUM 
 http://178.175.132.170:8888/02_epl1_720p_UK/chunklist.m3u8
