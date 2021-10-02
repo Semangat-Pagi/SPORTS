@@ -2,8 +2,6 @@
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Spotv
 https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
 http://158.69.25.22:25469/live/cvasd6g6g5bv/cvasd6g6g5bv/200238149.m3u8
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",GP
-https://cloudserver.server-cdn-streaming.com/live-player/12/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",True Sports 1
 https://cloudserver.server-cdn-streaming.com/live-player/7/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",True Sports 2
