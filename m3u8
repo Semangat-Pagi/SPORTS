@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",Supersports 1
+http://93.157.62.180/Supersport1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",Supersports 2
+http://93.157.62.180/Supersport2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",Supersports 3
+http://93.157.62.180/Supersport3/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Astro Arena
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",WWE
