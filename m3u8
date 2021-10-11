@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",champion1 
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=champion1&bandwidth=default&sync=0
 https://home-tv.web.id/RHS/tukang_oprek.m3u8?channel=vidio-6685
 http://103.146.203.40:80/US33T4/MPD/master.m3u8?id=champion1
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Supersports 1
