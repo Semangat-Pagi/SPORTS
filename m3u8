@@ -21,7 +21,8 @@ http://93.157.62.180/Supersport3/index.m3u8
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",WWE
 http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",Spotv
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",Spotv new
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live10.mpd
 https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
 http://158.69.25.22:25469/live/cvasd6g6g5bv/cvasd6g6g5bv/200238149.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",True Sports 1
