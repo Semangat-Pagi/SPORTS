@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",MOTO GP
+http://www.wiragana.com/live/motorgp.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",ASSP1
 https://tinyurl.com/32a67rds
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",ASSP2
